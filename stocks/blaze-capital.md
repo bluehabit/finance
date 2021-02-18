@@ -314,5 +314,5 @@ https://www.youtube.com/watch?v=MP2Km8qusgE&list=PL6o37jvhqx9a3Uvgs4QZKWA-SBARBK
 •	Going to go over **option chain** and how to read it. The left side is calls, the right side is puts. We have bid and the ask this is the same as trading stocks have to be careful because spread on options can get big and your multiplying that by 100 so if your buying 10 contracts and your paying 50 cent difference that’s $500. So want to be careful on your bids and your ask. 
 
 •	10 contracts x 100 shares per = 1,000 x .50 cents = $500
-•	 ideally want to be getting your bid filled but depends on your time frame, for example **when I day trade I usually just hit market (is that a button like you used on binance to instant sell?)**, so generally I use ==market orders==, if im using a longer term option trade like a few months out then probably will want to do a limit fill because then getting difference if getting a lower fill. 
+•	 ideally want to be getting your bid filled but depends on your time frame, for example **when I day trade I usually just hit market (is that a button like you used on binance to instant sell?)**, so generally I use `market orders`, if im using a longer term option trade like a few months out then probably will want to do a limit fill because then getting difference if getting a lower fill. 
 
