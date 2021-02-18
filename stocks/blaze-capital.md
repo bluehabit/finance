@@ -316,3 +316,41 @@ https://www.youtube.com/watch?v=MP2Km8qusgE&list=PL6o37jvhqx9a3Uvgs4QZKWA-SBARBK
 •	10 contracts x 100 shares per = 1,000 x .50 cents = $500
 •	 ideally want to be getting your bid filled but depends on your time frame, for example **when I day trade I usually just hit market (is that a button like you used on binance to instant sell?)**, so generally I use `market orders`, if im using a longer term option trade like a few months out then probably will want to do a limit fill because then getting difference if getting a lower fill. 
 
+![1](https://imgur.com/QI55HZh.png)
+
+•	`Volume` is the volume per day, want to watch for example trading s&p 500 and there is a whole pile of volume on the 275 put options or something, keep in mind people who want price below that but since its option there is the other side that wants price above that too. You never really know, it just can add more information to your hypothesis.
+•	`Open interest` is the amount of contracts that have not been settled. Sometimes those numbers can be really big like 10,000 – 30,000 open interest at a certain price. Again don’t know if someone wants to get that price above or below it but it’s another number to keep in mind, depends on who all owns those contracts etc. With high open interest numbers can serve as a magnet to that price. 
+•	`Implied Volatility` this is the premium, the premium is the risk you are paying the option seller in order to give up the option, no one is going to give up option for $0 or else they are not going to make any money.  These next 3 numbers all add up. The implied volatility is a percentage which has the premium they’re paying on top. If volatility is higher people are usually more willing to pay more of a premium, this is usually tied to the VIX and all that sort of stuff.
+•	`delta` is the ratio that the option is going to change in relation to the stock price. When I did my initial put and call options I was trying to get a delta closer to 0,  because when you get closer to 1 the underlying price is going to move $1 for $1 with the stock. The options that are closer to the actual trading price are closer to the actual trading price for example .5 or .6 which means you are going to get half a move (.5) in the option price for every $1
+
+![1](https://imgur.com/ATir906.png)
+
+•	If we open **all strikes** can see what the **delta** is for the ones that we bought , we got about a .7 on the call side so for every $1 we get a decimal .7 move in our option price
+
+![1](https://imgur.com/m4syrQ5.png)
+
+•	`Theta` is the time decay, so when justin is talking about premium burning and that type of thing on options he is talking about theta decay this happens a lot quicker when closer to expiration dates, if you’re a few weeks out on the contract the effect is a lot smaller. When theta is burning there is usually someone who sold the option contract and they are trying to get to rebuy these contracts again at a lower price, so they let the theta burn down and rebuy the options that they sold for a cheaper price and at the difference. So that’s what happens when they are kind of pinning the price in the middle of the day on Friday, or conversely trying to drive it down by calls cheaper and then driving it back up
+•	Its really hard to determine what they are trying to do but justin is really good at doing it. That’s how he can call out some of those closes sometimes.
+•	When im trading options I go close to in the `money (whats this mean)` depending on what I am trading, usually like a few $ away or at the money depending on which day it is. And then I either buy the closest Friday or the following Friday – that is for like day trading just because you get a lot of movement, and the prices are cheaper. If you are going to do this with some of these bigger companies its going to cost a fortune because your paying for the theta, time value risk, from your option price. So sometimes paying like $1,000 per contract etc. So sometimes doesn’t make sense to buy that far out. Whereas if we buy a contract that is maybe a month or two away we don’t want to lose our shirt on that time decay so ill buy it out 1 or 2 months away and then I usually buy out of the money. **A few grand vs 10s of thousands of dollars, what that mean in contracts?**
+•	Lots of strategies in options for example there is a `straddle` is buying option at set price where you try to cover losses with covered call. A `strangle` buy a put call roughly equidistant from the strike price, trying to make money on one side but also protect yourself on the otherside 
+•	Can use as a hedge as mentioned for example if your long on indexes can buy puts on SPY etc. to protect yourself on the downside
+•	So in summary find open interest, hints as to where price might go, implied volatility is the expected move and premium people are paying for that. If you go look at a stock that has earnings due volatility is going to be up in the 100-200% and then after earnings happen it drops significantly, that’s why betting on earnings is not the best because if your trying to do a straddle and you do one of each you are going to lose a lot of theta just based on volatility so really hard to make money on earnings unless right because losing value on both ends. Delta is change on option pricing in relation to stock price, theta is the time premium associated with the stock
+
+
+### What Is VWAP And How To Use It [Stock Market Indicator]
+
+•	`VWAP is volume weighted average price` Some people use for day trading and enters / exits. Calculated by taking $s traded for every transaction and then multiplied by number of shares traded and divided by total number of trades traded.
+
+![1](https://imgur.com/Y0ZCumh.png)
+
+•	So what does this tell us? Gives us a good indication on price and volume which are both very important indicators. **Its only available intraday, so if you go to the daily chart it will not show up properly!** The reason being its calculated mid reset everyday at the open. He is using 5min chart here, is anything less than a day ok to use for VWAP?
+•	 You cant rely soley on the vwap however it is a very important tool but ill explain that as I go. Gives us lots of information with 1 line. Its bullish if uptrending above the line and bearish below. `VWAP (price and volume)` is different from `VMA (volume)` which is just volume moving average, no price action included. Is VMA the same as 5, 30 day moving average? Also serves as support / resistance so usually good place to take  profits or initiate entries
+•	![1](https://imgur.com/m2VnKL4.png)
+
+![1](https://imgur.com/GS3rOyW.png)
+
+•	If it crosses under the VWAP and cant hold it not a good sign, so for example here we GAP up and then crossed under VWAP and sank most of the day here.  (insert figure 2), vwap tends to serve as a `magnet` . If above bullish / below bearish, supports resistance support pretty well, using as a tool to take profits or using as stop loss. Don’t want to rely on this solely  - `want to combine with bollinger bands, good old manually drawn support resistance lines/trend lines`
+
+![1](https://imgur.com/UHWu2UI.png)
+
+
