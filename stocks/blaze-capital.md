@@ -1,5 +1,7 @@
 # Blaze Capital Trading Fundamentals
 
+![d](https://i.imgur.com/9jhtxKz.png)
+
 ## Until proven otherwise, we are bullish. And conversely until proven otherwise we are bearish, rule of conservation of momentum. 
 
 How can we make this a lesson instead of a failure? What can we do tomorrow to not repeat the same mistakes we made today. "Having a healthy relationship with failure is a modern day super power". Can't rely on other people what to do. Justin has a high level of win rates.
