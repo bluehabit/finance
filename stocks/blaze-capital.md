@@ -368,4 +368,16 @@ fig 4 (not sure where this goes)
 
 #### Difference Between EMA, SMA and Bollinger Bands (Stock Market Indicators
 
+On your tradingview scripts this one is the `7, 30, 50, 100, 200 day simple moving averages`
+
+script
+
+![1](https://imgur.com/tekDinn.png)
+
+•	Simple moving average (`SMA`) and exponential Moving average (`EMA`). The simple moving average is calculated just by adding the closing prices by the day, so if you have a 10 day sma you will add all 10 then divide by 10 to get the average. EMA is a more complicated equation but overall tends to smooth out the price action a bit, most people use `SMA for larger time periods like the daily`, people use all sorts of different days to measure SMA it just depends on what works for you, in his example he is using the 50 (black), 100 day (red), and 200 blue
+
+![1](https://imgur.com/UJLj1vo.png)
+
+•	This is called a `death cross` when the `lower moving average crosses over the larger moving average`, and conversely when moving other way it is called the `golden cross` see 
+
 
