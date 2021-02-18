@@ -1,4 +1,4 @@
-#Blaze Capital Trading Fundamentals
+# Blaze Capital Trading Fundamentals
 
 ### Need to find 
 
