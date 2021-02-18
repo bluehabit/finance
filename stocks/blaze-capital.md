@@ -20,3 +20,25 @@ How can we make this a lesson instead of a failure? What can we do tomorrow to n
 From the following playlist https://www.youtube.com/playlist?list=PL6o37jvhqx9a3Uvgs4QZKWA-SBARBKLxI
 
 ![f](https://i.imgur.com/PSd1Cw8.png)
+
+### Justin Livestream insights
+
+From 2/18/21 mid-day video
+
+Meditation, journaling and ??? helped justin the most
+
+On the weekend, Justin try to predict outcome of the market, what I use to predict. $’s try as bond yield starts to rise bonds and stocks start to look equally attractive. $’s try to go to two places stocks and bonds . Why is SPY important to the market? Im looking for a specific word. Its niagra falls as strong or weak as your individual stock may be, if niagra (index) is going downward longterm what happens to your individual fast boat. Your like yo got 2k hp speed boat im going up against niagra falls, up moves usually temporary. You can fight It, temporarily might fight it but you run out of gas what happens,  can throw down your anchor but what happens then eventually niagra pushes you off a cliff. There is a way to get an edge, we need to track SPY everyday to get an edge. Anything green today is unusual, why, market is red today and some stocks are green. By the way it took me nearly 3 years before I started tracking SPY, meaning how long was I not tracking before I actual did. So for 3 years flying blind, do you think I lost money, yes. I messed up bad, a failure, but I made it a lesson. Do you want to learn from my mistake or make it yourself? SPY is topdown spy is trying to figure out each of these individual boxes, each box is a category can track apple to tech, apple to the big box (SPY), apple to peers meaning is it outperforming the niagra falls. Do you think you have blind spots? SPY is an ETF SPX is the index. Justin yes I have blind spots, im saying with over 10 years trading I still have blind spots that’s why I like YOU GUYS spot checking each other, sharing ideas etc. At first I did this just to help, I needed people are around me, I still lose money sometimes. Why did I build a community, I human I make mistake. I started trading at 18 – 19, im now 32 years old. As bad as you think you are today I was worse than you, why I wanted to get better, and identified my mistakes. What im telling you if you suck have to do home work to do better next time, took me 5 years I need a plan to make money, if you did that in less than 5 years you got this. Why do you think im putting in so much effort quality of community on YT on slack is high, quality over quantity. Very difficult to find like minded individuals, most people just want hot tips all day and casinos. A lot of channels bigger than ours, why because ill take 1,000 good over 10k /r/wsb. Looking for quality questions and ideas because we all get better from that. Our mission statement is help you help yourself, I do this everyday because I want to get better, last step to get better mastery is teaching. Can I teach you what I know? Im being greedy when I do these streams. You need to be aware of the levels in your positions, again don’t assume that I think I know everything I have lots of blindspots. Part of our moto is. Plan the work, work the plan. watching my video might not be wholey sufficient, what gets measured gets improved so track your stuff **CHECK OUT THIS VIDEO https://www.youtube.com/watch?v=4g6y-A2GIjM&ab_channel=BlazeCapital**
+but i do market analysis and can summarize for you
+
+![1](https://i.imgur.com/poeWirl.png)
+
+
+
+### Stock Chart Trend Lines - Support and Resistance Lines (Stock Market Basics)
+
+https://www.youtube.com/watch?v=KrlSdF167OI&ab_channel=BlazeCapital
+Technical chart analysis is more reactive rather than predictive. Want to look at chart analysis to gauge different possible outcomes to have a plan for best care and worse case (stop loss, sell limit etc). Want to have a plan in place, enter / exit.
+
+Think of stocks like physics, an object in motion will stay in motion until it encounters resistance. Resistance in this case will be either a **trend line or resistance / support line**, this is all based on human psychology. Resistance is where people want to sell the stock, where people try to buy is a support level. Eventually this comes to equilibrium and establishes ‘fair value’.
+
+On candles the bodies are more ‘absolute’ testing, and the wicks and tails are usually tests of the **trendline or support / resistance line**.
