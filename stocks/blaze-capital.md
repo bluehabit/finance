@@ -99,6 +99,73 @@ So as you can see, they are coming back to test the trendlines pretty frequently
 
 ![1](https://imgur.com/3dGBZyJ.png)
 
+As you can see did bounce off resistance, support lines quite a bit, so these help you define entries and exits and helps you develop a plan for success (put in stop losses etc).
+Not going to be perfect everytime, just have to make educated guess that’s reasonably close. 
+When you break through one direction, it becomes opposite, **So if you get over the top of resistance it becomes support, conversely, if you break below support, it becomes resistance.**
+
+**I think this sort of shape is from trendlines is called a descending / ascending wedge, where breakouts happen**, in this case ascending wedge
+
+![1](https://imgur.com/j4oqNNo.png)
+
+![1](https://imgur.com/STVynfU.png)
+t
+(it’s the green candle in this image with the x marks on it)
+
+About 10:38 This is a **hammer**, one of my favorite things to look for. Its when the body of the candle starts out of resistance, and then closes over the top of it, and then back tests below it. That’s a very bullish signal.
+
+(chart) history doesn’t repeat itself but it rhymes
+
+Parabolic charts are harder to do trend lines are, not enough trend lines (because your exponentially growing / in uncharted territory with no **overhead supply**
+
+In general, if very focused on a couple stocks I like to look at **5 minute chart for entry** and have daily lines on and 5 minute ones as well, daily is good for entry / exit??? Wtf is he saying
+
+Same ticker, **SPY** two charts
+
+**Daily**
+![1](https://imgur.com/vumZGXd.png)
+**5 min**
+![1](https://imgur.com/pf8hrGH.png)
+
+Opening up 5 minute chart, can see from our trendlines drawn on the DAILY, resistance / support lines still hold up. Aka daily lines
+
+**Support / Resistance lines kind of act like magnets**
+
+![1](https://imgur.com/GiLA2v8.png)
+
+Drawing our **down trend line** useful for day trades
+
+![1](https://imgur.com/3FTTqcF.png)
+
+More examples
+
+![1](https://i.imgur.com/1lF8gpN.png)
+
+Breakout, two scenarios have to be prepared for 
+
+![1](https://i.imgur.com/p3cAsaS.png)
+
+Looking for a break and hold, want to wait for confirmation. Where it breaks out. Ideally want it to breakout, then backtest down trend line to confirm – like this
+
+![1](https://imgur.com/HWTSdR1.png)
+
+Or conversely like this
+
+![1](https://imgur.com/5iLrgj7.png)
+
+**Draw trendlines**
+
+![1](https://imgur.com/kcmhd1H.png)
+
+**Add support resistance lines**
+
+![1](https://imgur.com/hHkyGfx.png)
+
+Don’t want to put too much on, grab as many data points as you can, try not to get chart noisy
+Would consider this an **equilibrium channel**, not breaking support or resistance just bouncing back and forth aka **trading sideways**
+
+![1](https://imgur.com/tm9MPwh.png)
+
+
 
 
 
