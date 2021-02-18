@@ -388,7 +388,7 @@ script
 
 •	I primarily use exponential moving average (matt) because I do more short period time frames, im on the 5 minute chart I use the 5 and 10 day moving average it all comes down to what you can replicate good results from so its personal preference
 •	![1](https://imgur.com/0PJLCti.png)
-• ![1](https://i.imgur.com/0PJLCti.png)
+• ![1](https://imgur.com/yvUSiUa.png)
 •	You are not going to catch the whole move everytime that’s not realistic but it can give you an idea on trend
 •	Fig 10 below ![1](https://imgur.com/2kjDrA6.png)
 
