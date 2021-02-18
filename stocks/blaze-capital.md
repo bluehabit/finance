@@ -423,3 +423,12 @@ script
 #### Bollinger Bands Pierced!
 
 ![1](https://imgur.com/lsg3iPm.png)
+
+### Intro To RSI and Stochastic [Overbought and Oversold Indicators]
+
+• Momentum indicators, RSI relative strenght indicator, and stochastic oscillator determine overbought and oversold conditions will hear justin say have to cool off indicators, what that means need to get from overbought to oversold.
+
+![1](https://imgur.com/llIYfWJ.png)
+• 
+
+
