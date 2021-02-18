@@ -448,6 +448,17 @@ script
 * becuase price is thought to follow momentum, so the intersection of lines may indicate a **reversal** is in play. Looking for blue line to cross the red line upwards in overbought or oversold conditions. When it gets close to `0`, `5`, `6`, etc thats a pretty good chance will turn back the other way. `Only issue with this, and other variables we use to measure the market is yoru going to get alot of false positives and false negatives if taken alone in isolation` - so want to use in combination with other things on the chart such as support and resistance lines, RSI and stochastic together, moving averages gives you a more complete picture you are like a detective gathering evidence.
 * Below is a good example of RSI/Stochastic remaining in overbought or oversold conditions longer than you anticipate, we were here for 3 months ![1](https://imgur.com/TUdAN0F.png)
 * ![1](https://imgur.com/B7fKMU2.png)
+* Some people do whats called a `snake bid`? where they throw a bid down at one of the support levels and just wait for it to fill, gives you pretty good risk reward here, maybe a 10 or 15 cent stop loss below that (like at that pierced bollinger band)
+
+#### Trading View Tutorial [Stock Market]
+
+* I think 5 is limit for indicators for pro version, for data just took out TSX from free version, I paid for that its only $9 and worth it, also pay for american exchange because company they use is slightly delayed and when your trading S&P options it moves so fast the delay can cost you thousands of dollars or more.
+* Main indicators I use are 5 and 10 day moving average, bollinger bands (2nd and 3rd deviation), Stochastic and RSI also VWOP on 5 minute
+* adding bollinger bands ![1](https://imgur.com/sykks6s.png)
+* configuring it ![1](https://imgur.com/P6AEgik.png)
+
+
+
 
 
 
