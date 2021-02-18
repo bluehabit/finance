@@ -426,9 +426,14 @@ script
 
 ### Intro To RSI and Stochastic [Overbought and Oversold Indicators]
 
-• Momentum indicators, RSI relative strenght indicator, and stochastic oscillator determine overbought and oversold conditions will hear justin say have to cool off indicators, what that means need to get from overbought to oversold.
-
+• Momentum indicators, RSI relative strenght indicator, and stochastic oscillator determine overbought and oversold conditions will hear justin say have to cool off indicators, what that means need to get from overbought to oversold. Not defenitive.  `Overbought is around 70+ rsi` `oversold below 30`. Things can remain 'overbought' or 'oversold' much longer than you think they can, but just because within a threshold does not meach it will flip the other way
 ![1](https://imgur.com/llIYfWJ.png)
+
+* RSI will rise as the number and size of positive closes increases, and will fall as number and size of losses increase
+* What we are watching for is it to go up into these ranges and then turn around, when we `get up into this range want to start looking into potentially taking profits`, but want to wait for **confirmation** before you do so, like how a **back test** serves as **confirmation**
+* ![1](https://imgur.com/mWi43sf.png)
+* More **volatile stocks** `will have higher and lower RSI values` where as s&p trends indicators alot more strictly since there are a lot more people watching it
+* so at this area want to drop a some **support and resistance lines**, one of my next videos is how to combine all these indicators together. So RSI can fall thats one indicator of downward pressure, then can see a death cross, another sign of downward pressure
 
 
 
