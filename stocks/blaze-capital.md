@@ -426,6 +426,8 @@ script
 
 ### Intro To RSI and Stochastic [Overbought and Oversold Indicators]
 
+### RSI 
+
 • Momentum indicators, RSI relative strenght indicator, and stochastic oscillator determine overbought and oversold conditions will hear justin say have to cool off indicators, what that means need to get from overbought to oversold. Not defenitive.  `Overbought is around 70+ rsi` `oversold below 30`. Things can remain 'overbought' or 'oversold' much longer than you think they can, but just because within a threshold does not meach it will flip the other way
 ![1](https://imgur.com/llIYfWJ.png)
 
@@ -433,7 +435,19 @@ script
 * What we are watching for is it to go up into these ranges and then turn around, when we `get up into this range want to start looking into potentially taking profits`, but want to wait for **confirmation** before you do so, like how a **back test** serves as **confirmation**
 * ![1](https://imgur.com/mWi43sf.png)
 * More **volatile stocks** `will have higher and lower RSI values` where as s&p trends indicators alot more strictly since there are a lot more people watching it
-* so at this area want to drop a some **support and resistance lines**, one of my next videos is how to combine all these indicators together. So RSI can fall thats one indicator of downward pressure, then can see a death cross, another sign of downward pressure
+* so at this area want to drop a some **support and resistance lines**, one of my next videos is how to combine all these indicators together. So RSI can fall thats one indicator of downward pressure, then can see a death cross, another sign of downward pressure which further confirms whats happening, and once we confirm this support here we want to exit or short.
+* `can even draw trend lines on the RSI if you want`
+* Here is a more recent section of S&P500 from december
+* ![1](https://imgur.com/6ByvBlf.png)
+* the smaller the time frame the less of the size of the move to make a profit on, for example doing hourly or per day its a small time frame so 5% might be what you can get vs going long where easier to get something like 20% over time
+* ![1](https://imgur.com/De0iwWv.png)
+
+### Stochastic
+* sensitive to momentum rather than absolute price, operates on assumption that closing prices should close near same direction as current trend
+* generally consists 2 lines, `one reflects actual value of oscilator the other reflecting the 3 day simple moving average`
+* becuase price is thought to follow momentum, so the intersection of lines may indicate a **reversal** is in play. Looking for blue line to cross the red line upwards in overbought or oversold conditions. When it gets close to `0`, `5`, `6`, etc thats a pretty good chance will turn back the other way. `Only issue with this, and other variables we use to measure the market is yoru going to get alot of false positives and false negatives if taken alone in isolation` - so want to use in combination with other things on the chart such as support and resistance lines, RSI and stochastic together, moving averages gives you a more complete picture you are like a detective gathering evidence.
+* Below is a good example of RSI/Stochastic remaining in overbought or oversold conditions longer than you anticipate, we were here for 3 months ![1](https://imgur.com/TUdAN0F.png)
+* ![1](https://imgur.com/B7fKMU2.png)
 
 
 
