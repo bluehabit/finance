@@ -192,12 +192,127 @@ User free script for support / resistance lines with breaks
 
 ![1](https://imgur.com/Sf7rVVu.png)
 
+![1](https://imgur.com/cvyqNPa.png)
+
+![1](https://imgur.com/55x2l4K.png)
+
+![1](https://imgur.com/ZxNi6qC.png)
+
+•	Try to get as many lines on top as we can when drawing (collecting data points)
+•	Looks reasonable there, then the bottom line
+•	got quite a few touches here so im happy with how we drew this out 
+
+![1](https://imgur.com/i2SNVWO.png)
+
+•	with this kind of pattern we are looking for it to break and hold either over the uptrend or down trend line so we have two scenarios that you have to be prepared for 
+
+![1](https://imgur.com/4s9mlk1.png)
+
+•	In our drawing its contained within this wedge so its not ready to break out or break down yet, waiting for confirmation 
+•	Scenario A looking for it to break out and back test the downtrend line 
+
+![1](https://imgur.com/sCTFJjs.png)
+
+•	 or conversely scenario B looking for it to break down, hit resistance, and then bounce back down again.
+
+![1](https://imgur.com/LtyZu7A.png)
+
+• Redrawing chart so less noise 
+
+![1](https://imgur.com/Mhcc9VZ.png)
+
+•	Would consider this equilibrium channel where it bounces back and forth before any plays, getting tight within wedge so should get a break out one way or another in the next week or two
+•	Next Funko, this chart is pretty parabolic its gone straight up and straight down, can do longer trend level or shorter trend level for drawing, remember gathering as many data points as possible that’s reasonable
+
+![1](https://imgur.com/tk91Oo5.png)
+
+![1](https://imgur.com/twDDQYf.png)
+
+•	Might consider this outlier information since the rest seems to be following this longer trend line 
+
+![1](https://imgur.com/Fgo32Cl.png)
+
+•	He is sending this basic analysis to the slack group … so it has value as basic as it is
+•	New chart ianthus once again conservation of momentum going to continue current move until it hits support / resistance 
+
+![1](https://imgur.com/lKlFENF.png)
+
+•	Looks like trading view marks the prices that the support levels were drawn at automatically 
+
+![1](https://imgur.com/cuQLzAU.png)
+
+•	Ianthus, two really good hammers here so I treat that as support 
+
+![1](https://imgur.com/lOpD4N6.png)
+
+•	Drew trend resistance level where these two red candles almost perfectly match up, trying to draw trend lines resistance / support with matching candles of the same color, •	e.g. red and red, green and green. I think
+
+![1](https://imgur.com/uLpmKT6.png)
+
+•	Continuing to fill out the chart with more support resistance lines
+
+![1](https://imgur.com/r9jSnfA.png)
+
+![1](https://imgur.com/VxU9B6u.png)
+
+•	Probably would not buy here, until it gets over this level because it has been strong support / resistance. Don’t want to buy here because risk reward here is not great. If you buy and it drops all the way down to here to $6.70 will lose money if don’t have a proper stop loss in place.
+
+![1](https://imgur.com/mTJljfG.png)
+
+•	If we draw it another way like this, looks like we broke the down trend line 
+
+![1](https://imgur.com/LcZ4tgI.png)
+
+### From Stock Options Basics Introduction [Stock Market Education]
+
+https://www.youtube.com/watch?v=MP2Km8qusgE&list=PL6o37jvhqx9a3Uvgs4QZKWA-SBARBKLxI&index=1&t=7s&ab_channel=BlazeCapital
+
+•	Much more risk with options, total $ value risk is lower but the probability of losing all of your investment or 50% of your investment is a lot higher. When you buy an option generally want mentality going in that it can possibly go to zero to be prepared for that risk. **Options** are **puts** and **calls**. 
+•	What I recommend doing is paper trading which is to say you write down which options you want to buy on paper, excel file, etc. for practice and see how you would perform had it been real money
+•	Going to do a live demonstration using Amazon
+
+![1](https://imgur.com/IbgcapF.png)
+
+•	Write now current stock price is $1,786.80 so we will buy one call $1760 and you trade these just like you would a stock, going to do market buy because its not real money
+
+![1](https://imgur.com/jiKbszD.png)
+
+•	Now our put  at $1805.00
+
+![1](https://imgur.com/2nhPoo1.png)
+
+![1](https://imgur.com/2QnxiD0.png)
+
+•	Can see are calls / puts here
+•	Amazon is a high value stock so these options will move faster versus a lower dollar value stock like $20, so these options should move fast, and with real money amazon type companies would be really good if right, but quite bad if wrong
+•	An option is basically a **bet** from one person to another person that they know which direction the stocks going to or a way to hedge part of their portfolio using **covered calls** which require a **premium**. People pay the premium in order to get an option from the other person. One contract is equal to 100 shares. *A put is a bet that the stock price will go down, so you get the right to sell the security (stock) at a certain price and then a call is the opposite, you get the option to buy the contract at a certain price. These options have a date stamp on them which makes them more risky, because if you are wrong at a certain time your option price could go to zero. With a stock can hold onto it indefinitely if you want and it could go back up, but an option, if you’re wrong in a certain span of time it goes to zero and you get nothing for it.*
+
+![1](https://imgur.com/XZjs836.png)
+
+![1](https://imgur.com/TLYgISa.png)
+
+•	The ones we bought for Amazon were June 7th 
+
+![1](https://imgur.com/Ilkkonf.png)
+
+•	So these bets (options) are that the stock are going to be above (call) or below (put) these specified prices, normally you wouldn’t buy an option both ways (bull/bear) unless the market is super volatile at that point in time, in which you could get the direction right both ways. Rather, you pick a trend you think the stock is going to go (up or down) and use a put or call accordingly
 
 
+#### Option Chain
 
+•	The person who sold the contracts is betting or hedging their portfolio the opposite direction. When we are watching the **option chain** look and see there is a lot of open interest. So if there is a bunch of contracts open at a certain time frame there is one person betting that the stock price is going, so say for example we are looking at $1785 as a target price there is one person betting the stock price is going to go above that, and there going to get to catch the difference from the calls, and then the other person who sold the option contract originally is betting that the price is going to be below, because they don’t want to give their shares away they just want to collect the option premium and keep their shares ideally. That’s why its really hard to figure out whats happening because there are two people betting on this, and you don’t know who has the biggest pockets so we don’t know if price is going to be above or below that.
+•	Lol (matt) he had to pull out calculator to do 178 x 100 
 
+![1](https://imgur.com/AzwqNOj.png)
 
+![1](https://imgur.com/EjiuMBb.png)
 
+•	So when I was talking about risk/reward in order to buy **100 amazon contracts**, remember **ONE CONTRACT is 100 SHARES** its going to be **a lot** of money in this case $178,000 for 100 shares, **where as we just bought 100 contracts of each for about $8,010** ($4,215 + 3,795 below), also can see we already lost 270 on our call side. And profiting 20 on the put side. In general expect that the option could go to zero that way not as stressful. Because they literally move so fast ive made lots of money in options but also lost quite a bit as well. Again strongly recommend paper trading until you get a better feel for it because can lose money so fast in options. I also would recommend something that doesn’t normally move that fast like the s&p500
 
+![1](https://imgur.com/8lvVdt3.png)
 
+•	Going to go over **option chain** and how to read it. The left side is calls, the right side is puts. We have bid and the ask this is the same as trading stocks have to be careful because spread on options can get big and your multiplying that by 100 so if your buying 10 contracts and your paying 50 cent difference that’s $500. So want to be careful on your bids and your ask. 
+
+•	10 contracts x 100 shares per = 1,000 x .50 cents = $500
+•	 ideally want to be getting your bid filled but depends on your time frame, for example **when I day trade I usually just hit market (is that a button like you used on binance to instant sell?)**, so generally I use ==market orders==, if im using a longer term option trade like a few months out then probably will want to do a limit fill because then getting difference if getting a lower fill. 
 
