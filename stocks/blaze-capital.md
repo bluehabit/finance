@@ -378,6 +378,8 @@ fig 4
 
 On your tradingview scripts this one is the `7, 30, 50, 100, 200 day simple moving averages`
 
+`The mid brown line on the bollinger band is a 5 day SMA!`
+
 script
 
 ![1](https://imgur.com/tekDinn.png)
@@ -444,7 +446,7 @@ script
 
 ### Stochastic
 * sensitive to momentum rather than absolute price, operates on assumption that closing prices should close near same direction as current trend
-* generally consists 2 lines, `one reflects actual value of oscilator the other reflecting the 3 day simple moving average`
+* generally consists 2 lines, `one reflects actual value of oscilator the other reflecting the 3 day simple moving average, bull and bear wicks, crossing over vwop`
 * becuase price is thought to follow momentum, so the intersection of lines may indicate a **reversal** is in play. Looking for blue line to cross the red line upwards in overbought or oversold conditions. When it gets close to `0`, `5`, `6`, etc thats a pretty good chance will turn back the other way. `Only issue with this, and other variables we use to measure the market is yoru going to get alot of false positives and false negatives if taken alone in isolation` - so want to use in combination with other things on the chart such as support and resistance lines, RSI and stochastic together, moving averages gives you a more complete picture you are like a detective gathering evidence.
 * Below is a good example of RSI/Stochastic remaining in overbought or oversold conditions longer than you anticipate, we were here for 3 months ![1](https://imgur.com/TUdAN0F.png)
 * ![1](https://imgur.com/B7fKMU2.png)
@@ -455,7 +457,19 @@ script
 * I think 5 is limit for indicators for pro version, for data just took out TSX from free version, I paid for that its only $9 and worth it, also pay for american exchange because company they use is slightly delayed and when your trading S&P options it moves so fast the delay can cost you thousands of dollars or more.
 * Main indicators I use are 5 and 10 day moving average, bollinger bands (2nd and 3rd deviation), Stochastic and RSI also VWOP on 5 minute
 * adding bollinger bands ![1](https://imgur.com/sykks6s.png)
-* configuring it ![1](https://imgur.com/P6AEgik.png)
+* configuring it ![1](https://imgur.com/P6AEgik.png) although matt likes to use **standard deviation of 3 as preference (not pictured)**
+* Always want to wait for **confirmation** but how do that
+* `The mid brown line on the bollinger band is a 5 day SMA`
+* matt does mostly day trading so does the 5 and 10 day SMA, but usually uses the `EMA` which is also built in ![1](https://imgur.com/IXIb9o4.png)
+* can change colors so its easier to see ![1](https://imgur.com/6WOnFM1.png)
+* ` usually use death / goldlen cross to CONFIRM price direction`
+* right click to add an alert ![1](https://imgur.com/PCVP4yj.png)
+* refines alert with crossing up or down says doesn't really matter, can make alert for up and down 
+* ![1](https://imgur.com/eHW0KDL.png), can set it for price or anything else
+* Can use magnet tool to help align on support lines automatically ![1](https://imgur.com/undefined.png)
+* Can change visibility so some parameters only show up if under certain parameters ![1](https://imgur.com/vfH0QWa.png) double click on things like the trend lines to get this option
+* Compare button ![1](https://imgur.com/ZVNCbWQ.png)
+
 
 
 
