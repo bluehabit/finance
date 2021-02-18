@@ -468,9 +468,12 @@ script
 * ![1](https://imgur.com/eHW0KDL.png), can set it for price or anything else
 * Can use magnet tool to help align on support lines automatically ![1](https://imgur.com/undefined.png)
 * Can change visibility so some parameters only show up if under certain parameters ![1](https://imgur.com/vfH0QWa.png) double click on things like the trend lines to get this option
-* Compare button ![1](https://imgur.com/ZVNCbWQ.png)
+* Compare button ![1](https://imgur.com/ZVNCbWQ.png) for example can look at apple compared to s&p500 ![1](https://imgur.com/YjPH48x.png)
+* can view multiple charts on one time frame if you want ![1](https://imgur.com/F391FfR.png)
+* can `share` ![1](https://imgur.com/J73kiBa.png)
+* if you want to draw a lot of trend lines all at once ![1](https://imgur.com/mR4hyRE.png)
 
-
+#### Stock Trading Order Types (Overview)
 
 
 
