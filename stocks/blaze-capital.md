@@ -414,5 +414,12 @@ script
 •	sink and trend downward, here we gap up, sink, fill the gap, and kept going down ![1](https://imgur.com/KEuMwwN.png)
 •	or we gap up, test the blue sma and then continue upwards fig ![1](https://imgur.com/t5uw6Y3.png)
 •	gap down, either consolidate sidewaysthen  go up,  ![1](https://imgur.com/KXxlWSn.png)
+•	or gap down and continue dropping, probably would not buy here because its riding the underside of the sma current in the middle of a death cross
+![1](https://imgur.com/yUaZGq5.png)
+•	last example is gap down and then head upwards 
+![1](https://imgur.com/NQWobh6.png)
+•	so generally what I do is wait for the **Bollinger bands to get pierced**  one way or another for a buy or sell and combine that with SMA moving averages to determine bullish or bearishness 
 
+#### Bollinger Bands Pierced!
 
+![1](https://imgur.com/lsg3iPm.png)
