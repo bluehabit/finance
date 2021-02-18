@@ -40,6 +40,10 @@ She found this apparently, and your buy wick went off on the script
 On the weekend, Justin try to predict outcome of the market, what I use to predict. $’s try as bond yield starts to rise bonds and stocks start to look equally attractive. $’s try to go to two places stocks and bonds . Why is SPY important to the market? Im looking for a specific word. Its niagra falls as strong or weak as your individual stock may be, if niagra (index) is going downward longterm what happens to your individual fast boat. Your like yo got 2k hp speed boat im going up against niagra falls, up moves usually temporary. You can fight It, temporarily might fight it but you run out of gas what happens,  can throw down your anchor but what happens then eventually niagra pushes you off a cliff. There is a way to get an edge, we need to track SPY everyday to get an edge. Anything green today is unusual, why, market is red today and some stocks are green. By the way it took me nearly 3 years before I started tracking SPY, meaning how long was I not tracking before I actual did. So for 3 years flying blind, do you think I lost money, yes. I messed up bad, a failure, but I made it a lesson. Do you want to learn from my mistake or make it yourself? SPY is topdown spy is trying to figure out each of these individual boxes, each box is a category can track apple to tech, apple to the big box (SPY), apple to peers meaning is it outperforming the niagra falls. Do you think you have blind spots? SPY is an ETF SPX is the index. Justin yes I have blind spots, im saying with over 10 years trading I still have blind spots that’s why I like YOU GUYS spot checking each other, sharing ideas etc. At first I did this just to help, I needed people are around me, I still lose money sometimes. Why did I build a community, I human I make mistake. I started trading at 18 – 19, im now 32 years old. As bad as you think you are today I was worse than you, why I wanted to get better, and identified my mistakes. What im telling you if you suck have to do home work to do better next time, took me 5 years I need a plan to make money, if you did that in less than 5 years you got this. Why do you think im putting in so much effort quality of community on YT on slack is high, quality over quantity. Very difficult to find like minded individuals, most people just want hot tips all day and casinos. A lot of channels bigger than ours, why because ill take 1,000 good over 10k /r/wsb. Looking for quality questions and ideas because we all get better from that. Our mission statement is help you help yourself, I do this everyday because I want to get better, last step to get better mastery is teaching. Can I teach you what I know? Im being greedy when I do these streams. You need to be aware of the levels in your positions, again don’t assume that I think I know everything I have lots of blindspots. Part of our moto is. Plan the work, work the plan. watching my video might not be wholey sufficient, what gets measured gets improved so track your stuff **CHECK OUT THIS VIDEO https://www.youtube.com/watch?v=4g6y-A2GIjM&ab_channel=BlazeCapital**
 but i do market analysis and can summarize for you
 
+important levels and wubs 'w's for the win
+
+![1](https://imgur.com/Y8BaUUv.png)
+
 Trying to do 3 years of knowledge in one stream
 
 ![1](https://i.imgur.com/wCMA94A.png)
@@ -390,7 +394,8 @@ script
 •	![1](https://imgur.com/0PJLCti.png)
 • ![1](https://imgur.com/yvUSiUa.png)
 •	You are not going to catch the whole move everytime that’s not realistic but it can give you an idea on trend
-•	Fig 10 below ![1](https://imgur.com/2kjDrA6.png)
+•	F![1](https://imgur.com/2kjDrA6.png) 
+• ![1](https://imgur.com/UXbBDHm.png)
 •	Moving average will not always work 100%  price dropped the floor with no crossing of SMA 
 
 ![1](https://imgur.com/Jryc7y1.png)
@@ -398,9 +403,12 @@ script
 •	If you did nothing else but wait for SMA crosses would have pretty good success. 
 •	Here had a gap up, sank all day and had to fill this gap here, and then continued upward, that happens quite frequently as well. For all of this we have 3-4 outcomes. When have a gap up we either sink back, gap fill. 
 
+![1](https://imgur.com/Fx4CYU8.png)
+
 ![1](https://imgur.com/WCzgYNq.png)
 
-•	sink and trend downward fig 12, here we gap up, sink, fill the gap, and kept going down
-•	or we gap up, test the blue sma and then continue upwards fig 13
-•	gap down, either consolidate sidewaysthen  go up,  fig 14
+•	sink and trend downward, here we gap up, sink, fill the gap, and kept going down ![1](https://imgur.com/KEuMwwN.png)
+•	or we gap up, test the blue sma and then continue upwards fig ![1](https://imgur.com/t5uw6Y3.png)
+•	gap down, either consolidate sidewaysthen  go up,  ![1](https://imgur.com/KXxlWSn.png)
+
 
