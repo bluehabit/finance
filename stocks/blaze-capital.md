@@ -353,9 +353,13 @@ https://www.youtube.com/watch?v=MP2Km8qusgE&list=PL6o37jvhqx9a3Uvgs4QZKWA-SBARBK
 
 ![1](https://imgur.com/GS3rOyW.png)
 
-fig 2 (not sure where this goes)
+fig 2 
 
-fig 4 (not sure where this goes)
+![1](https://imgur.com/jhjvXpT.png)
+
+fig 4 
+
+![1](https://imgur.com/3v03qcq.png)
 
 •	If it crosses under the VWAP and cant hold it not a good sign, so for example here we GAP up and then crossed under VWAP and sank most of the day here.  (insert figure 2), vwap tends to serve as a `magnet` . If above bullish / below bearish, supports resistance support pretty well, using as a tool to take profits or using as stop loss. Don’t want to rely on this solely  - `want to combine with bollinger bands, good old manually drawn support resistance lines/trend lines`
 
