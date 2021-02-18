@@ -349,8 +349,23 @@ https://www.youtube.com/watch?v=MP2Km8qusgE&list=PL6o37jvhqx9a3Uvgs4QZKWA-SBARBK
 
 ![1](https://imgur.com/GS3rOyW.png)
 
+fig 2 (not sure where this goes)
+
+fig 4 (not sure where this goes)
+
 •	If it crosses under the VWAP and cant hold it not a good sign, so for example here we GAP up and then crossed under VWAP and sank most of the day here.  (insert figure 2), vwap tends to serve as a `magnet` . If above bullish / below bearish, supports resistance support pretty well, using as a tool to take profits or using as stop loss. Don’t want to rely on this solely  - `want to combine with bollinger bands, good old manually drawn support resistance lines/trend lines`
 
 ![1](https://imgur.com/UHWu2UI.png)
+
+•	So using above example wouldn’t want to be initiating calls under this trend line because risk reward ratio is not great, versus below example
+
+![1](https://imgur.com/mrhVdbk.png)
+
+•	Good old regular support / resistance lines also serve as a `magnet`
+•	Figure 4 goes below, from these sort of big moves ive learned in the past hard to chase big moves like this because don’t know whats going to happen. Sometimes they go up hit `Bollinger bans` smash into the ceiling and plummet down
+•	Back testing is usually support somewhere if you scroll back on the graph and can’t immediately see it.
+•	![1](https://imgur.com/Ba1MlpT.png)
+
+#### Difference Between EMA, SMA and Bollinger Bands (Stock Market Indicators
 
 
