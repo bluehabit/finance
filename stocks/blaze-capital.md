@@ -165,6 +165,37 @@ Would consider this an **equilibrium channel**, not breaking support or resistan
 
 ![1](https://imgur.com/tm9MPwh.png)
 
+**Going to wait for it to break one way or another before we make short or longterm plays**
+
+Its getting very tight here near apex of triangle  / wedge, so have to wait and see what happens. He even posts this chart to the group
+
+![1](https://imgur.com/E88nWrr.png)
+
+Can pull trendlines from far away too like this one
+
+![1](https://imgur.com/95sXg39.png)
+
+![1](https://imgur.com/ErL7Fca.png)
+
+What happened here? Did it bounce of a trendline, lets draw one and check it out
+
+![1](https://imgur.com/tzGGiGt.png)
+
+yup oh weird look at that
+Can draw another mini trendline within , but this is almost going straight up so looks parabolic
+
+![1](https://imgur.com/JsYc0g9.png)
+
+User free script for support / resistance lines with breaks
+
+![1](https://imgur.com/e7bErMz.png)
+
+![1](https://imgur.com/Sf7rVVu.png)
+
+
+
+
+
 
 
 
