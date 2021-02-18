@@ -391,5 +391,16 @@ script
 • ![1](https://imgur.com/yvUSiUa.png)
 •	You are not going to catch the whole move everytime that’s not realistic but it can give you an idea on trend
 •	Fig 10 below ![1](https://imgur.com/2kjDrA6.png)
+•	Moving average will not always work 100%  price dropped the floor with no crossing of SMA 
 
+![1](https://imgur.com/Jryc7y1.png)
+
+•	If you did nothing else but wait for SMA crosses would have pretty good success. 
+•	Here had a gap up, sank all day and had to fill this gap here, and then continued upward, that happens quite frequently as well. For all of this we have 3-4 outcomes. When have a gap up we either sink back, gap fill. 
+
+![1](https://imgur.com/WCzgYNq.png)
+
+•	sink and trend downward fig 12, here we gap up, sink, fill the gap, and kept going down
+•	or we gap up, test the blue sma and then continue upwards fig 13
+•	gap down, either consolidate sidewaysthen  go up,  fig 14
 
