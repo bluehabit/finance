@@ -4,7 +4,7 @@ https://blazecapital.com/courses/
 
 When I very first started, no experience bought gold based on yahoo finance artile stating that it was going to go up. Just looked at ticker on yahoo and bought in. 
 
-When first started trading lost a lot of money doing the following. Ended up losing 42k
+When first started trading lost a lot of money doing the following. Ended up losing 42k. Ive lost all my money twice.
 
 *revenge trading
 *fomo
@@ -34,6 +34,12 @@ Best time of day to trade, just before return of the trader after lunch break, t
 EZ part of day. Hard time of day is open and close, have to be disciplined enough to buy or sell. In EZ part of day, higher probability of success and being correct, but lower % move. During hard part of the day higher probability of failure, but higher % move. At a bottom for example dont buy at the absolute bottom, wait for CONFIRMATION then go in, or you get out.
 
 Part of EZ trade instead of buying lowest that you think you would go to and its highest, its buying a little higher than you thought, and selling even higher thats the best mentality. Wait until low of the day established, wait to confirm low is held, after low is held and its a higher low, its much more likely to have a higher low again so your risk tolerance  / risk reward is a lot better becuase now you know botom put in, trending up, and help higher low.
+
+Mutual funds in my opinion (justin) is probably the worst investment because management fees are so high and if we look at a compound interest calculator, can see what 1-2% management fee does over time, lose like a quarter of your earnings. If you just average s&p returns at 9% take that to management account its half at 4.5%. Its half! Losing 2% of your profits means lose half your retirement thats a big deal (based on s&p returns). Lose a quarter on 1%! 
+
+If you want to lock money up in things, put them in ETFs, do same thing as a mutal fund almost, better overall, manage yourself. Little fees. Ask broker what program is with ETFs. Some brokers can be free with brokers.
+
+
 
 
 
