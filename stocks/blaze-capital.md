@@ -2,11 +2,27 @@
 
 ![d](https://i.imgur.com/9jhtxKz.png)
 
+## CHECK HER POSTS
+
+![1](https://imgur.com/QsllYEA.png)
+
 ## Charts
 
 ![1](https://imgur.com/svl5mnp.png)
 
+![1](https://imgur.com/rkLTDwW.png)
 
+![1](https://imgur.com/2OTUl5z.png)
+
+![1](https://imgur.com/Krq5LeQ.png)
+
+![1](https://imgur.com/MvjPxoH.png)
+
+![1](https://imgur.com/YBb9EMo.png)
+
+![1](https://imgur.com/7YuXIv8)
+
+![1](https://imgur.com/3gcawKp.png)
 
 ## Until proven otherwise, we are bullish. And conversely until proven otherwise we are bearish, rule of conservation of momentum. 
 
