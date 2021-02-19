@@ -532,7 +532,7 @@ script
 #### ETF's
 
 * Warren Buffet is a big fan of just buying S&P500 and nothing else, lots of S&P companies diversified with wide global reach. 
-* 
+*  ![1](https://imgur.com/r50XWrx.png)
 # https://www.youtube.com/watch?v=pceGUWd8FV0&list=PL6o37jvhqx9a3Uvgs4QZKWA-SBARBKLxI&index=19&ab_channel=BlazeCapital left off at 7:13
 
 
