@@ -428,6 +428,8 @@ script
 
 #### Bollinger Bands Pierced!
 
+![1](https://imgur.com/gWXn6Rv.png)
+
 ![1](https://imgur.com/lsg3iPm.png)
 
 ### Intro To RSI and Stochastic [Overbought and Oversold Indicators]
