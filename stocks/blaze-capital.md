@@ -514,8 +514,26 @@ script
 * `fok` fill or kill, if you dont get ENTIRE order filled at price you want cancels order and have to put it in again
 * ![1](https://imgur.com/288Nx6J.png)
 
+### How To Set Stop Losses
 
+* Valuable tool for `predicting` how much money you will gain or lose on each trade.
+* Stop loss comes to personal preference and types of trades, e.g. swing vs long. Going to want to make your decisions on longer charts like daily or 4h, and probably trading less capital vs a day trader who needs to put up a lot more money to make those 2-3% gains count, day traders usually use tighter stop losses vs swing traders.
+* for arguments sake, should be entering trade for some reason, wether a brekaout from the base or oversold, `want to be calculating risk reward before hand`.
 
+### How To Manage A Stock Market Portfolio With A Busy Schedule
+
+* last week we went over why `ETF's` are better than mutual funds and how passive investing works all that kind of stuff, the banks get 2-3% commission on these mutual funds that they sell you, plus financial advisors charge $200-$500 to $1k an hour for a full laid out plan and help you through ti
+* Its keeping it simple guys dont have time to look over shoulder constantly, and alot of those active funds dont end up outperforming mar,ket anyways. Best way is to $ cost average, adding certain amount w/e your comfortable with each week or month and can play around with compound calculator from that point on that we talked about a few weeks back
+* in general people will do their age in bond % out of 100. So say im 30 years old ill have 30% of my portfolio in bonds and 70% in equities, and rebalance annually at end of year or w/e makes sense. Reason for this is, when equitiies do really good sell some of those and sell them to buy bonds, and when equities are doing really bad take money out and get bonds and come in at the bottom of the market. This is the s&p 500 the index doesn't work on trading view for some reason but it goes back to 1930, in general markets go up and to the right through time
+* So when market crashed in 2008 if you had a percentage in bonds it held pretty well ![1](https://imgur.com/undefined.png)
+* Thats reason we keep bonds in our portfolio , other thing is risk level / tolerance
+* theres risk of dips in market, but also missing out on returns
+
+#### ETF's
+
+* Warren Buffet is a big fan of just buying S&P500 and nothing else, lots of S&P companies diversified with wide global reach. 
+* 
+# https://www.youtube.com/watch?v=pceGUWd8FV0&list=PL6o37jvhqx9a3Uvgs4QZKWA-SBARBKLxI&index=19&ab_channel=BlazeCapital left off at 7:13
 
 
 
