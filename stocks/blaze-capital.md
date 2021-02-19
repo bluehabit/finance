@@ -475,6 +475,40 @@ script
 
 #### Stock Trading Order Types (Overview)
 
+#### Market Order 
+* S&P one of most widely traded, easy to get in and out, very liquid. 
+* Level 1 bid and ask price different on level 1 different than level 2.  With level 1 called *lots* and these are multiples aof 100. The number by bid size is multiplied by 100. Some brokers different than others, might not always be like that. But usually level 2 is actually share count themselves. But in the case of QUEST TRADE
+* ![1](https://imgur.com/RrdjxhO.png)
+* ![1](https://imgur.com/sEUCOj4.png)
+* Why is this important, because depending on what you are trading will choose a different type of order. With S&P im always confident with market orders, but your going to want to check the spread though, I trade a lot of options and sometimes the spread can be 10 or 20 cents which can be hundreds of dollars, so you dont just go in and smash the buy button just want to confirm before you buy. But for trading shares most of the time you are going to get a pretty big fill. 
+* When determining if buying or selling want to look at level 2, so if i was going to sell 50,000 shares right now, it would EAT ALL these shares up. If you scroll down there is maybe 20,000 bids in ![1](https://imgur.com/Xi3QXXy.png) at market, if I was selling at 1.55 going to get filled at 1.55 right? nope, going all the way down to probably in the 1.30s judging by how many bids are in (left bid/buy, right ask/sell)
+* Same thing on the ask side. 
+* So I was watching this one day, and somebody hit market sell here and dropped price all the way down to here.So say you had 50 or 100k shares and you said GET ME OUT and you hit market, it eats up all the bids all the way down here. And then the price gets driven back up because good price at the time and people 'bought the dip' driving the price up. If you hit market on that your avereage sell price probably went way down, probably got $2 or so where as you probably wanted $3 or so. Thats why we dont hit market on **small caps** unless your paying attention to the level 2 and know for certain going to get filled and not going to eat up all the bids depending going up or down depending if you are selling or buying
+* ![1](https://imgur.com/zsuUog6.png)
+* With large caps, usually ok to trade canopy, s&p etc, only going to get variance of a couple pennies in your market sell, whereas if doing small caps its going smash the ask/sell in whichever direction your doing it if its a large amount of dollars
+
+#### Limit Order
+* Othe type is a `limit order`, use s&p as example trading in 290.05 ish and if your buying 100 its not going to make a huge difference, lets hit buy, I got filled at 290.10
+* ![1](https://imgur.com/iKsZLWg.png)
+* downside to limit orders, if you miss where the price is, so lets say i put in a bid for 210 right now, and someone selling at 290.5 not going to get filled. If you really want to get filled, want to put limit slightly above where ask is or at ask, and if you dont might not get filled properly.
+
+
+#### Stop Losses
+#### Stop Buy
+* stop loss is for protecting downside, this one is a **stop market** works the same as a buy market on a limit buy. Dont want to put stop market in on low cap / low float, generally use a limit instead. Most of the time i use stop markets because if you put in a stop market and it skips over your price it doesn't get filled. 
+* ![1](https://imgur.com/VemoePw.png)
+* **stop limit** 
+* ![1](https://imgur.com/EawZmAs.png) **Stop limit** that means that once it flips over to 289.50, as soon as it gets filled at 289.49 it will try and get to the best price possible. **If its small caps with big spreads, they sometimes wont get filled properly.** So keep in mind, keep eye on level 2 and how stock trades throughout the day so not missing a stock or getting stopped out way lower than you would like to and taking a bigger loss.
+
+#### Trailing stop
+* will follow your price upand try to sell on a drop, can use % or dollar amount, so what that means is if the stock is riding, its not going to sell you out until it drops .20 cents. At .20 cent drop will sell out position. Good option if you are out and about and dont have a chance to watch it, say you are out at work can throw on trailing stop for .5% or something if you up 2%, that way gurantee 1.5% profit. 
+* ![1](https://imgur.com/1C5aGzL.png)
+
+#### LOO Limit on open /  LOC Limit on close
+* this is just for open say you want a stock at open will take any price up to 10 cents from where it opens, I dont use these much.
+
+#### How to Set Stop Losses
+
 
 
 
