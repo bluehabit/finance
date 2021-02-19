@@ -507,7 +507,14 @@ script
 #### LOO Limit on open /  LOC Limit on close
 * this is just for open say you want a stock at open will take any price up to 10 cents from where it opens, I dont use these much.
 
-#### How to Set Stop Losses
+#### Durations
+* `Day` This means by end of the day its going to cancel your order if it doesn't get filled
+* `GTD` good until canceled, will stay open until you close the order
+* `GTEM` good till extended market, e.g. after hours some brokers like webull offer after market trading hours and also premarket 
+* `fok` fill or kill, if you dont get ENTIRE order filled at price you want cancels order and have to put it in again
+* ![1](https://imgur.com/288Nx6J.png)
+
+
 
 
 
