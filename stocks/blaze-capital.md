@@ -438,6 +438,8 @@ script
 
 ![1](https://imgur.com/lsg3iPm.png)
 
+![1](https://imgur.com/8ySkdGH.png)
+
 ### Intro To RSI and Stochastic [Overbought and Oversold Indicators]
 
 ### RSI 
