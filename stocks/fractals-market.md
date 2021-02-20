@@ -53,6 +53,7 @@ Standard and Poors (S&P500) is a proxy of the US economy because it represents t
 * the market will tell us through another pattern if our current projection is going to break
 * in fractal analysis we are simply listening to what the market is telling us 
 * ![1](https://imgur.com/iXHbBEc.png)
-
-
+* looked for volume to confirm break that comes from 2009 resistance levels? The resistance needs a whole movement or an expansion movement to break
+* ![1](https://imgur.com/ZWAvYYl.png)
+* 
 
