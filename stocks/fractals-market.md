@@ -54,7 +54,8 @@ Standard and Poors (S&P500) is a proxy of the US economy because it represents t
 * in fractal analysis we are simply listening to what the market is telling us 
 * ![1](https://imgur.com/iXHbBEc.png)
 * looked for volume to confirm break that comes from 2009 resistance levels? The resistance needs a whole movement or an expansion movement to break
-* ![1](https://imgur.com/ZWAvYYl.png)
+* ![1](https://imgur.com/ZWAvYYl.png)\
+* **the S&P model they have studied in detail minute by minute to find patterns in the micro to apply to the macro, we have develoeped all the 'standard fractals' for the S&P 500 just like those microscopic fractal shots, find the small, let it repeat in the macro find those patterns**
 
 
 * Expansion type 2 ![1](https://imgur.com/VzcECLt.png)
@@ -71,5 +72,8 @@ Standard and Poors (S&P500) is a proxy of the US economy because it represents t
 * ![1](https://imgur.com/YC4p9da.png)
 * ![1](https://imgur.com/uUXV965.png)
 * ![1](https://imgur.com/jdi1Tox.png)
+
+DJI
+* ![1](https://imgur.com/6zenG3q.png)
 * 
 
