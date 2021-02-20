@@ -39,8 +39,20 @@ Standard and Poors (S&P500) is a proxy of the US economy because it represents t
 * Expansion type 1
 * Notice how the rest of the graph is an estimate on the 2018 right hand side with a target of 3788.8
 * we obviously understand market does not rise in a linear way because marekt is made up of impulsive and corrective waves
-* TP on the list are target prices, usually where profits are taken
+* TP  on the list are target prices, usually where profits are taken, or pt - price target
 * this is part of a fractal that is running and that fractal, with classic charting many were not anticipating the break up here
 * another myth with classic chartism has to do with triple top, but that did not happen, it continued upward
 * we track the fractal and that allows us to have a map / compass of where things can go
-* 
+
+* ![1](https://imgur.com/rnXnHKe.png)
+* ![1](https://imgur.com/qLB0G5r.png)
+* When we do fractal analysis we not only see that point, going from A to B, but the path we take from A to B with market corrections and pull backs
+* ![1](https://imgur.com/GweHVXR.png)
+* the macro repeats in the micro
+* we are going to see his more frequently as we go down in temporality (go down in time, e.g. 1 day to 1 s)
+* the market will tell us through another pattern if our current projection is going to break
+* in fractal analysis we are simply listening to what the market is telling us 
+* ![1](https://imgur.com/iXHbBEc.png)
+
+
+
