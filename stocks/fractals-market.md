@@ -27,3 +27,6 @@ Standard and Poors (S&P500) is a proxy of the US economy because it represents t
 * ![1](https://imgur.com/VLfvL0T.png)
 * moves from seconds (I think?) scale ![1](https://imgur.com/r0LQiFp.png)
 * to days ![1](https://imgur.com/HY0rQCb.png)
+* This is a fractal pattern we have identified as a pattern of an expansive type 1, we have two types in a passive, type 2 expansive type and a type 1 expanisve type, this is a type 1 expansive type. We see here how we have this blue line that comes from beyond 2009 (the trendline that we established earlier), and this bullish channel we also established from 2009
+* Here we count bounces in bullish channel / funnel 
+* ![1](https://imgur.com/nTszGDU.png)
