@@ -62,5 +62,14 @@ Standard and Poors (S&P500) is a proxy of the US economy because it represents t
 * 75 movements over and over and over
 * ![1](https://imgur.com/v7W72xT.png)
 * ![1](https://imgur.com/0McHBCe.png)
+* ![1](https://imgur.com/5ZPKtkt.png)
+* w pattern
+* ![1](https://imgur.com/xHLVBny.png)
+* ![1](https://imgur.com/obVXc06.png)
+* these are **1h candles*!!!!
+* Look at 1D candles ![1](https://imgur.com/5dVP2sm.png)
+* ![1](https://imgur.com/YC4p9da.png)
+* ![1](https://imgur.com/uUXV965.png)
+* ![1](https://imgur.com/jdi1Tox.png)
 * 
 
