@@ -24,4 +24,6 @@ Standard and Poors (S&P500) is a proxy of the US economy because it represents t
 * having it in log allows for greater precision reading with trend line, another reason is this bullish channel that starts at the beginning of june
 * ![1](https://imgur.com/wl3lh2V.png)
 * Starts at the bottom of 2009 and has 10 years in this bullish channel
-* 
+* ![1](https://imgur.com/VLfvL0T.png)
+* moves from seconds (I think?) scale ![1](https://imgur.com/r0LQiFp.png)
+* to days ![1](https://imgur.com/HY0rQCb.png)
