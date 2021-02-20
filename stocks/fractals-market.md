@@ -32,6 +32,15 @@ Standard and Poors (S&P500) is a proxy of the US economy because it represents t
 * ![1](https://imgur.com/nTszGDU.png)
 * What we have here is something very interesting 
 * if we zoom, 26 bars/ candles, this one here does not go more than 10 this has not been seen the last time we saw this was in 1985 we managed to get 25 bars 
-* ![1](https://imgur.com/HDJfKed)
-* I think the blue line here is the EMA on the 1D
+* ![1](https://imgur.com/HDJfKed.png)
+* I think the blue line here is the EMA on the 1D, it says 
+* ![1](https://imgur.com/XcAAhcu.png)
+* ![1](https://imgur.com/8YGLAtI.png)
+* Expansion type 1
+* Notice how the rest of the graph is an estimate on the 2018 right hand side with a target of 3788.8
+* we obviously understand market does not rise in a linear way because marekt is made up of impulsive and corrective waves
+* TP on the list are target prices, usually where profits are taken
+* this is part of a fractal that is running and that fractal, with classic charting many were not anticipating the break up here
+* another myth with classic chartism has to do with triple top, but that did not happen, it continued upward
+* we track the fractal and that allows us to have a map / compass of where things can go
 * 
