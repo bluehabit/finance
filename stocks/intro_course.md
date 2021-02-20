@@ -39,6 +39,69 @@ Mutual funds in my opinion (justin) is probably the worst investment because man
 
 If you want to lock money up in things, put them in ETFs, do same thing as a mutal fund almost, better overall, manage yourself. Little fees. Ask broker what program is with ETFs. Some brokers can be free with brokers.
 
+My property went up 25% in one year in vancouver, thats like 3x s&p return, thats one year and it compounds its stupid. From when this is recorded (anticpating major market correction in the next 6 to 12 months), I dont have anything long right now in stocks i like sleeping easy at night so mostly day trade, options etc.
+
+`REIT are like real estate etfs`
+
+Bonds are debt, getting fixed amount back, fixed income. Steady reliable income, thats why older goes higher in bonds until fully in bonds by retirement.
+
+### Entries and Exits
+
+When day trading same thing as trading long term, looking for entry and exit before we get in so we know ok buying stock at 10, anticipate going up to 12, and could go down as low as 9. So im risking $1 to make $2. Thats your risk reward ratio, how to calculate this? Instead of thinking a trade holding for hours, will hold for days, same risk tolerance. Like I say over and over should almost immediatley be right when you go into an investment because it means you have done the homework, checked fundamentals, technicals line up for a move. Now put money in and trend should be confirmed almost immediatly should not have to wait or average down. ANd when you do that entry more important than exit in my opinion. Because if you get in at a bad price your exit is going to be clouded by this. So say you bought canopy up at $46 US on day they announced, and then they open up at $35. You have to wait almost 2 weeks for it to go back up to $42. **Entry is super important because before you buy is when you are your most rationale.** What I do is with a journal, if I buy at 10, im selling at 12, my stop loss is at 9. So I already know that going in, because once trade is on can rationalize why should buy or sell. Instead of oh, its going to go up --- i think im going to double down and buy more in a losing trade. SHOULD GET CONFIRMATION RIGHT AWAY AND TREND HEADING YOUR WAY almost as soon as you enter. If my chart breaks, im going to get out as soon as it breaks. For example if im it at 10 and target was 12, but it starts breaking down, im getting out. As soon as i see something i dont like i get out, im not going to force a trade. Ill cut i if i something i dont like. If its at 10 and goes to 9.50, ill cut it i wont wait till 9 which was my actual stop loss because im not getting the confirmation i thought i was going to get.
+
+Need to think like an investigator, impartial, what do I need to see to confirmt the hypothesis, what do I need to see to see if im wrong? Its applicable if your swing trading, long, day, its all candles some are 1min some are 10 some a day etc.
+
+Buying stock means buying a partial ownership of that company. The way market cap gets calculated, people look at price and think oh aurora is cheap compared to canopy because its $8, no its not, just like iota and btc. Canopy is $58, but look at market cap. Way market cap is calculated is number of outstanding shares 
+
+### Settlement
+
+They make sure stock has been settled before they release the funds to you, so that means in a margin account, can still trade with full value but cannot withdraw funds that are not settled. Brokers are never going to lose money thats their business. Brokers make billions of transactions and they have checks and balances on each one to make sure no errors like accidentally adding an extra 0. Can still use money in account, but until its settled cannot withdraw. If your american rule I guess, cant trade stock more than 4 times, cant buy it more than 4-5 times in 1 week thats high frequency trading. Unless have day trader status with IRS not able to do this, cant do in and outs on same security over and over. Whereas me as a canadian can be in and out of a stock 10-20 50 times a day because we are scalping them, looking for small amounts of money on multiple transactions. Some people were thinking this had to do with settled, but thats not true, money is settled but FINRA preventing you from trading same stock over and over. If you only trade canopy, 5 times in 4 days, account can get suspended and that can happen in middle of trade. But can go into another stock. Same when a bank deposits a check they put hold on it to confirm money is in the account.
+
+### Cycles and Seasons
+
+http://www.equityclock.com/seasonality/ Shows you average return in a given sector
+
+Good tools to give you edge before jumping into trade.
+
+## Course 3 Charting And Setup / Entries and Exits
+
+Are you being it in a downturn, or in a confirmed reversal
+May find stocks that are interesting, BUT It might not be the right time to buy
+DD is due diligence
+
+Trying to build a case before you get in or out
+
+![1](https://imgur.com/TkEhbH8.png)
+
+
+### Terminology
+
+## Course 2 Due - Diligence
+
+### Charting
+
+Want to know 
+1. how the overall market is doing 
+2. how the sector is performing (tech, MJ, crypto etc.)
+3. how individual stock is performing
+4. any niagra falls stocks within that sectors e.g. crypto and BTC vs alt coins
+5. I want to look at ETF for the sector before i look at an individual company for example in MJ stocks, HMJJ is just the majors it doesn't hold any small cap companies, GDX is major for gold minors GDXJ is the juniors for gold. In this example HMJJ the ETF for MJ marketspace was strong, the overall market was strong, now look at invidiaul company like canopy 
+6. 
+
+
+Here is one on SPY, clear bull chart but getting a bit over extended.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
