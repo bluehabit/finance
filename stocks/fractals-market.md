@@ -55,5 +55,9 @@ Standard and Poors (S&P500) is a proxy of the US economy because it represents t
 * ![1](https://imgur.com/iXHbBEc.png)
 * looked for volume to confirm break that comes from 2009 resistance levels? The resistance needs a whole movement or an expansion movement to break
 * ![1](https://imgur.com/ZWAvYYl.png)
+
+
+* Expansion type 2 ![1](https://imgur.com/VzcECLt.png)
+* [1](https://imgur.com/iBMHQsG.png)
 * 
 
