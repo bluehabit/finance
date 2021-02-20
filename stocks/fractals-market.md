@@ -73,6 +73,9 @@ Standard and Poors (S&P500) is a proxy of the US economy because it represents t
 * ![1](https://imgur.com/uUXV965.png)
 * ![1](https://imgur.com/jdi1Tox.png)
 
+* ![1](https://imgur.com/R4rvh3o.png)
+* 
+
 DJI
 * ![1](https://imgur.com/6zenG3q.png)
 * 
