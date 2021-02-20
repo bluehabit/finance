@@ -58,6 +58,9 @@ Standard and Poors (S&P500) is a proxy of the US economy because it represents t
 
 
 * Expansion type 2 ![1](https://imgur.com/VzcECLt.png)
-* [1](https://imgur.com/iBMHQsG.png)
+* ![1](https://imgur.com/iBMHQsG.png)
+* 75 movements over and over and over
+* ![1](https://imgur.com/v7W72xT.png)
+* ![1](https://imgur.com/0McHBCe.png)
 * 
 
