@@ -408,6 +408,13 @@ script
 
 #### SMA LEGEND
 
+### SMAs can serve as support/resistance lines as well. 
+
+20 - very short term
+50 - short term
+100 - medium term
+200 - long term
+
 ![1](https://i.imgur.com/sNcf6eM.png)
 
 •	Simple moving average (`SMA`) and exponential Moving average (`EMA`). The simple moving average is calculated just by adding the closing prices by the day, so if you have a 10 day sma you will add all 10 then divide by 10 to get the average. EMA is a more complicated equation but overall tends to smooth out the price action a bit, most people use `SMA for larger time periods like the daily`, people use all sorts of different days to measure SMA it just depends on what works for you, in his example he is using the 50 (black), 100 day (red), and 200 blue
