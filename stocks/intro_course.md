@@ -1,3 +1,9 @@
+Being able to adapt, an investing environment (easy to go long) vs a traders environment 
+where botoms are not in, and its choppy, hard to go long and make money, need to be flexible and adapt
+strategies
+
+6% down in 2 days is a big move on the S&P
+
 ## Intro Course
 
 https://blazecapital.com/courses/
@@ -72,6 +78,45 @@ DD is due diligence
 Trying to build a case before you get in or out
 
 ![1](https://imgur.com/TkEhbH8.png)
+
+### Market Sentiment
+market sentiment (peoples opinions, discussion on forums, media) can be very different from fundamentals. For example in this course talking about a dip in 2018 the fundamentals looked 'ok' but market sentiment was very bearish
+
+Big media, CNBC, Wallstreet Journal, what is the message the talking heads are putting out?
+
+#### VIX = FEAR INDEX
+`PUT vs CALL / Ratio (VIX) = FEAR INDEX` this is what VIX measures! How much people are willing to pay for insurance now vs later. As people get more scared, get more fearful and willing to pay more for PUTS and downside protection (hedging?). 
+
+Is **fear greed** index a good indicator of market sentiment? YES, is this the same measure of the above though, the vix basically? Not sure that is is because crypto has a fear/greed indicator but VIX is not part of that.
+
+**FA** - Fundamental Analysis (underlying company, or ETF)
+**TA** - technical analysis, charts basically. Another factor is **opening vs closing price** for me.
+**Market Sentiment** - peoples opinion, discussions, forums, media. How many people are holding over night? IF people are not willing to hold over night they just dont know. Also what is your OWN feeling. Are you feeling less inclined to buy, or more stressed thinking about your holdings, are you thinking about it alot about it night, is it affecting your quality of life. We want to be sleeping good at night, dont want to be going to bed with our phone right beside us looking at every tick. If your not able to sleep good about this your probably nervous, and ify our nervous means you individually at least are bearish. Could mean your too big on a play. 
+**Market overall** - e.g. Whole market vs the index, NYSE vs S&P. In 2018 S&P was outperforming the market index, the 500 companies that make up S&P probably showed the better earnings than the whole market. And also more sought after stock. Tech and financials highest weighted in the S&P. Can see `tech` and `financials` biggest categories for S&P500. So NYSE is overall market, S&P500 is the top 500 companies within NYSE, within S&P500 can be further subdevided by industry `QQQ` is tech (facebook, amazon, google) `XLF` is for financials. The bigger weighting bigger impact on the overall, tech is more than a quarter of S&P as you can see below, financials is 16%. NYSE Composite has every stock in every sector regardless of size in it vs if your just in tech or w/e thats how S&P500 can over perform the composite. ![1](https://imgur.com/WUY3BeO.png). S&P with only 500 companies can get a skew, or overperformance based on individual companies and sector performances.
+
+But in reality is everything as bad as the media / traders make it out to be?
+
+People normally do a buy back when they think there stock is cheap and dont have any other better way to spend thier money, because once you buy shares back money is gone. But if you can take 1 billion and invest it and can invest it into R&D for 10% return vs a buy back where you might get a 6% back from boosted stock price always makes more business sense to reinvest money becuase your going to get a better rate of return investing it. But sometimes buybacks are used to stop a stock from bleeding like facebook in 2018(?) I think it was. When announce a buy back because you think its cheap your basically announcing hey think its undervalued by x amount, should be 20% higher in our opinion. 
+
+**Interest rates** also effect this, right now basically at 0% if you can borrow a billion $ for 1% and can get 5% in stock value, borrowing one and getting back 5. We did this for like 10 years with interest policies, and this boosted buy backs big time with 'free money' very little debt repayment to service on the interest. All the easy buybacks have been done and poeple are back to doing them for more historic reasons because they are undervalued.
+
+**Clear policy on trade** with TRUMP its fucking up earning potential, its is important to have clear rules on free trade, when these are up in the air it effects companies ability to make investments. Need to know how trade effects GDP. Tradewar with china is not affecting much of GDP (media is saying), but actually eventually it would because at the time not all tarrifs were enforced.
+
+![1](https://imgur.com/rON3KTk.png)
+
+index fell off a cliff when the trdae war for initiated, each color on graph represents a different country
+
+(all of this is from 2018 trade wars) Say your GM you get some imports from canada, for raw materials, you send raw materials to china where they get built out, they then ship them back to you and you work on them and they get added back to the car. Each exchange here, with tarriffs in place can incur additional cost penalities. And that makes it hard to forecast what your going to make in revenue because unclear policies because what you pay right now may be different 3 months out, 6 months out 1 year out etc.For example tarriff on aluminum is hurting them big time. What if GM need to build a plant that costs $1 billion and its not operational for a few years while being built, they are forecasting cost on price of build out, market size opportunity, taxes etc. forecasting 2-3 years out - so spending $1 billion today, but we are expecting this much of a return 2-3 years out but when those variables changed plant might not be viable anymore , that makes companies like GM pull out and tarriffs causing problems. These are lagging indicators, cant go back and unbuilt building once build, so companies cutting back on buildout with unclear policies. If building a plant takes 2-3 years, but we dont even have clear policy for next 2 years, why would you risk $1 billion on plant when have no idea what it will cost to maintain it? Most will hold back instead and consolidate, pay off debt, share buy back etc.**Trade imbalances** If US is buying more, and other countries are selling, overtime more tension. Bigger imbalance more country feels like taken advantage of. Monetary policy like US calling china currency manipulator, because what china can do is devalue currency. Alot of people know the canadian $ / usd discrempancy. E.G when both $s at parity, now canadians can buy more american goods for same $, more people traveling to US, more people buying online from US because roughly on par. Now our $ is at roughtly $1.33 which means each $1 would have spent in 2016 terms, now you are getting 1/3 less so less canadians buying us goods / traveling to US etc. Same thing with china, when they make their goods cheaper, meaning they devalue their currency, you buying chinese goods as an american it appears to be cheaper even though its artificial so all of this has a big effect on price as well.
+
+
+
+#### Key Trends
+
+Usually opening near the high, and closing near the low (again 2018 trade wars),on chart only have had 2 days since we have closed higher than open, every otherday open near high and closed near low, that means everything is being sold. Also death cross forming and breaking key trends, and also volume. If we zoom out to weekly chart
+
+
+
+
 
 
 ### Terminology
