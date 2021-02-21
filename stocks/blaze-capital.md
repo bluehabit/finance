@@ -1,3 +1,5 @@
+![1](https://imgur.com/1CHyhXx.png)
+
 # Blaze Capital Trading Fundamentals
 
 ![d](https://i.imgur.com/9jhtxKz.png)
