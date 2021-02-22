@@ -643,3 +643,8 @@ Disney Example
 
 ![1](https://imgur.com/JGIYGXX.png)
 
+### Examples
+
+Market needs time to digest big moves
+
+![1](https://imgur.com/mSti5tJ.png)
