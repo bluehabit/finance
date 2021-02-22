@@ -182,7 +182,13 @@ https://blazecapital.com/course-3-entries-exits/ this course, section 5: sector 
 
 ![1](https://imgur.com/xYEtBOd.png)
 
+#### Seasonality and Cycles
 
+can look at these together. For example gas, winter its cold people need gas - supply is shorter, so more than likely a bullish move - can also call these sort of events `catalysts`. Now there is a corrective move going on after that where its pricing this in, and unless winter is longer and harsher or inventory is shorter than expected probably going to keep regressing toward the trendline. **The catalysts are now played out**. Reason sharing this is he posts his trades on the slack group and if you just look at charts might not know **WHY** he was antipating this winter move. `Understanindg why is just as important as knowing when to buy and sell`.
+
+left off at 36min on this video...
+
+![1](https://imgur.com/4AZDZGJ.png)
 
 ### Terminology
 
