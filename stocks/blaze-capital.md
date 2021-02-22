@@ -574,6 +574,20 @@ script
 *  ![1](https://imgur.com/r50XWrx.png)
 # https://www.youtube.com/watch?v=pceGUWd8FV0&list=PL6o37jvhqx9a3Uvgs4QZKWA-SBARBKLxI&index=19&ab_channel=BlazeCapital left off at 7:13
 
+ 
+## Swing Trading Setups and Mapping [Stock Market Basics]
 
+* My definition of a swing trade is holding it anywhere from 1 to 2 weeks, could be longer, depending on how thesis and stops hold. For a long trade  looking to catch a bottom or  a back test, idea is to get a break out, have it back test and hold -  that’s how I typically do it
+* A million ways to do a swing trade though, can do partial position on breakout, can scale profits out and sell 25% at profit target 1, 25% profit target 2, or all in all out, I lean more toward scaling in so that way I can lock in some profits or spreads and taking 50% of profits because lower risk don’t have to baby sit as much.
+* heres an example of a backtest 
+* ![1](https://imgur.com/du5k4us.png)
+* ![1](https://imgur.com/tz5UHHL.png)
+* on this chart would have entered around $255.04 
+* ![1](https://imgur.com/kTkr7c7.png)
+* Could have it even tighter if you were only willing to lose .50 to $1
+* could have then just rode the 1h all the way up to 279.08 for about 9.5% increase
+* ![1](https://imgur.com/9SzOIOK.png)
+* Bottom play, I traded netflix and tesla bottoms, haven't been doing as many swing trades lately (video premiered march 4 2020) and have been trying to lock in profit and havne't been sure where market is going to top out, so I make my $100-$200 every trade and walk away and try to be happy with that.
+* Netflix here had earnings miss, huge gap down, 
 
 
