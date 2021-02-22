@@ -629,4 +629,7 @@ Disney Example
 * so again looking for a `break` above resistance or `back test of trendline` or both, if you catch a golden cross as its happening or before its happening or even a bit after usually have plenty of room to move, but in this example we aregetting very close to the upper extent of the bollinger bands, which can serve as resistance levels because these are 1 - 3 standard deviations above current price.
 * ![1](https://imgur.com/hIgNkkQ.png)
 * previously we had alot of room to move up before we hit the bollinger bands (yellow X), where as where we are right now (red x) bollinger bands are getting quite narrow and running out of room and tightening could cause us to breakdown
+* ![1](https://imgur.com/quRs9C8.png)
+* ![1](https://imgur.com/SSafFOh.png)
+* 
 
