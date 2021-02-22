@@ -588,6 +588,29 @@ script
 * could have then just rode the 1h all the way up to 279.08 for about 9.5% increase
 * ![1](https://imgur.com/9SzOIOK.png)
 * Bottom play, I traded netflix and tesla bottoms, haven't been doing as many swing trades lately (video premiered march 4 2020) and have been trying to lock in profit and havne't been sure where market is going to top out, so I make my $100-$200 every trade and walk away and try to be happy with that.
-* Netflix here had earnings miss, huge gap down, 
+* Netflix here had earnings miss, huge gap down. Could have rode this from 310.75 to 335 or so ![1](https://imgur.com/qKFPJlQ.png) this is an example of trying to catch the bottom. risk would be buying it bottom and its not actually the bottom, or minimal gains if it bounces off the next resistance level ![1](https://imgur.com/bdRimU2.png) ideally want to catch these sort of trend moves in a BULL MARKET
+* S&P had another good example  ![1](https://imgur.com/iyiZRvL.png)
+* ![1](https://imgur.com/NYBN04o.png)
+* can look for patterns to such as `cup and handle`
+* try to find 4-6 trades a week one or two a blue chip, one IPO (such as slack) which is higher risk but they move nicely like beyond me, crowd strike, sometimes for IPO's need hourly to find support resistance if not enough data 
 
+### Disney Example using Psychological Levels for Profit Targets
+Disney Example
+* So first put down our `trendlines` ![1](https://imgur.com/AIB22mY), again try to get as many data points as we can
+* ![1](https://imgur.com/Ip0iWsJ.png)
+* next `support and resistance`, try to place them on either the bottoms or tops of the candles, can use `magnet` to help snap to these levels
+* ![1](https://imgur.com/x8pmN9Z.png) not going to be perfect just trying to catch as many data points as you can
+* for profit targets going to use `psychological levels` 140, 147, 149.5, 152
+* going to make sure indicators not too overbought (I use `stochastic` alot but `rsi` is good too), been experiencing with `macd` lately. `macd` is a momentum indicator, look for trend changes here. See here heavy selling (dark red bars, then less selling light red bars) and its sort of making a trend line
+* Using these tools to help make an informed guess on `trend change` ![1](https://imgur.com/hTnIKMw.png)
+* onto the graph we are looking for a `break and back test` of 145, thats our first `buy trigger`
+* ![1](https://imgur.com/hbFLzgp)
+* second `buy trigger` would be a back test of the `trend line itself`
+* ![1](https://imgur.com/bMYBrZ9.png)
+* If I am buying with 145 as my target, tight stop would be here in orange, would want to wait for back test instead of putting stop in right away and could probably put your initial stop loss at the second support line - and once you clear the backtest move your stop up. Thats a pretty good strategy ratcheting your stop up and taking profits on the way out.
+* ![1](https://imgur.com/I3pQWmW.png)
+* he posts this chart to slack after
+* dont want to put your stop losses RIGHT at resistance because good chance this can be backtested in most moves, instead a little lower to get some breathing room dont want to get `stopped out early` but agian depends on risk tolerance and position amount
+* ![1](https://imgur.com/Khu1MqC.png)
+* 
 
