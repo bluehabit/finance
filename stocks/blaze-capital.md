@@ -631,5 +631,11 @@ Disney Example
 * previously we had alot of room to move up before we hit the bollinger bands (yellow X), where as where we are right now (red x) bollinger bands are getting quite narrow and running out of room and tightening could cause us to breakdown
 * ![1](https://imgur.com/quRs9C8.png)
 * ![1](https://imgur.com/SSafFOh.png)
-* 
+
+
+### Short setup use PUTTS not shorts
+* Want to try to catch the shorts at the top, this setup is looking like a `inverse hammer`
+* `I generally give putts with short setups because your risk is limited because can only as much as your putting in, but if your shorting a stock you can lose infinite amount of money potentially in theory. Like if you shorted beyond at 30 bucks and it goes to 300 yo got smoked if you had 100 shares and didn't cover thats alot of money thats why i like putts more than shorting stock itself.`
+* ![1](https://imgur.com/tcSSO70.png)
+* setting up putt profit targets, call some of these zones `air pockets` because not much support ![1](https://imgur.com/UzawrS2) a little support but not significant, yoru resistance / support levels with breaks helps identifiy these soft support areas very well. think of support made of hard robust concrete, vs support made of straw and twigs thats an air pocket, if velociy downwards is intense its going to cut through that support easily. For example low volume, death cross, overbought etc.
 
