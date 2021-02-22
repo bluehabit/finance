@@ -615,5 +615,5 @@ Disney Example
 * ![1](https://imgur.com/Pu3sLnw.png)
 * ![1](https://imgur.com/G374QV7.png)
 * ![1](https://imgur.com/UvZQcPr.png)
-* 
+* This is what I go through pretty much every sunday 1 blue chip, 1 ipo, some small caps etc, scan twitter for a few people that i follow for watch list and look through those and see if i agree with them and try to pick the best ones that I see.
 
