@@ -612,5 +612,8 @@ Disney Example
 * he posts this chart to slack after
 * dont want to put your stop losses RIGHT at resistance because good chance this can be backtested in most moves, instead a little lower to get some breathing room dont want to get `stopped out early` but agian depends on risk tolerance and position amount
 * ![1](https://imgur.com/Khu1MqC.png)
+* ![1](https://imgur.com/Pu3sLnw.png)
+* ![1](https://imgur.com/G374QV7.png)
+* ![1](https://imgur.com/UvZQcPr.png)
 * 
 
