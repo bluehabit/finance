@@ -619,6 +619,14 @@ Disney Example
 * ![1](https://imgur.com/UvZQcPr.png)
 * This is what I go through pretty much every sunday 1 blue chip, 1 ipo, some small caps etc, scan twitter for a few people that i follow for watch list and look through those and see if i agree with them and try to pick the best ones that I see. Can't look at every stock in the world so you might have better ideas than I do.
 * Can do `tiered profits and tiered stop losses`, stop 1 (tight 1), stop 2 (at a support level), stop 3 below a support level
-* ![1](https://imgur.com/ifzCPPR.png)
-* 
+
+### Blue Skys - Uncharted (literally) territory
+* ![1](https://imgur.com/ifzCPPR.png) on this cup and handle, handle is a bit extended here.
+* ON BLUE SKYS bollinger bands can serve as support/resistance lines because you are past the previous ATH, you are literally in uncharted territory and since bollinger bands are 1-3 std deviations away from current price they are great to serve as these support / resistance levels in blue sky situations. 
+* `draw trendline`, this one is looking toppy so exercise caution, but still bullish
+* using top of wicks for `resistance` levels and `support`.
+* we're going to `blue skys` again so we got to try and pick our levels out.
+* so again looking for a `break` above resistance or `back test of trendline` or both, if you catch a golden cross as its happening or before its happening or even a bit after usually have plenty of room to move, but in this example we aregetting very close to the upper extent of the bollinger bands, which can serve as resistance levels because these are 1 - 3 standard deviations above current price.
+* ![1](https://imgur.com/hIgNkkQ.png)
+* previously we had alot of room to move up before we hit the bollinger bands (yellow X), where as where we are right now (red x) bollinger bands are getting quite narrow and running out of room and tightening could cause us to breakdown
 
