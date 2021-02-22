@@ -131,8 +131,56 @@ Oil is one of the key things that goes into inflation. And goes into feds key ta
 
 Usually opening near the high, and closing near the low (again 2018 trade wars),on chart only have had 2 days since we have closed higher than open, every otherday open near high and closed near low, that means everything is being sold. Also death cross forming and breaking key trends, and also volume. If we zoom out to weekly chart.
 
+### Sector and Stock conditions and sentiments
 
+Generally speaking when the market is choppy, riskier assetts sell off more such as MJ stocks. For example, bitcoin, what happened to it? It fell off a cliff, then in october change in monetary policy fell off the cliff again. Super new sector, low utility its all speculation. The higher growth and higher risk are going to get these sort of sudden moves faster. 
 
+Another thing thats important about these companies is the amount of debt that they are carrying, we went over that in the due-diligence section - but justin as a swing / day trader (at least when these videos were recorded in 2018, is that even something thats important to you, your just trying to ride the trend swing). Companies that carry more debt like Amazon as things change, have to price that in, if cost of servicing debt goes up, and economy is slowing, they are going to have a harder time repaying so that has to get priced in. That happens with any stock with high growth - Netflix is another example of this.
+
+![1](https://imgur.com/Gwp3NNj.png)
+
+![1](https://imgur.com/sSWsipw.png)
+
+It has declined 80+% and its not the first time this has happened. Has done it consistently over and over.
+
+#### Reading Sentiment
+
+#### Headwinds
+
+* Do we have headwinds for the overall market?
+* Headwinds for the sector (tech, finance, pharmacy, MJ etc.)?
+* Headwinds for some of the big names in that sector? 
+* TA for individual stocks
+
+Check, check, check? Bullish sentiment
+
+#### Example 
+
+This is canopy a MJ stock. All the easy trades are shown below. The highlighted section of the chart is more challenging, it cannot just ride the hype for easy gains anymore, now its more about fundamentals. The EZ money is not now, this is in a more mature sectore, has to trade on more fundamental stuff not the hype it did on last 3 years. Thats what we call a `cycle` and a `super cycle`, this started when Trudeau got elected and we rode that all the way until news coming in, got to `sell the news` and nothing else coming out. This is where people get burned in this purple section trying to `chase the pump` after years of running, 1000%'s of percent. Now in a corrective phase new ATH not going to be easy - **could take years before we see ATH again**.
+
+![1](https://imgur.com/7ftUtnp.png)
+
+**Just like example below most big cycles have a big ramp up, ATH, consolidation, leg down to digest and then move back up. Dont go straight up forever.**
+
+![1](https://imgur.com/Zp1FTCn.png)
+
+TRADING oppurtunity vs INVESTING oppurtunity. Like we mentioned in video this is a traders market not investment oppurtunities. Justin in the rough 2018 mj market was doing trading plays not investing. No catalysts left in the MJ candian market, before could ride the hype oh yeah legalized HYPE etc. Now all that is left is, hey did you hit your numbers? Thats all we have left in the canadian market. In the US market size is 10x bigger. Canadian market might be ok investment in the longterm 1-3 years plus, but can get better returns on my money trading right now. What would I look for to invest again? I would wait for higher high, then lower low, and then on first sign on move back up I would reenter, **would take my time for sure no rush**. If we slice the trendline (close below it or pierce it with wick) thats not a buy sign for me thats a wait. So until then sit on cash, or look at other sectors. MJ bill and farm bill came out in same week and still could not close out green for the week.
+
+Let trade come to you, confirm moving higher, so we flush out all the weak hands that bought in the purple line - thats what a higher high means. Anyone who bought in this purple line has now had a chance to sell if a new short term high is reached (relative to the purple line)
+
+![1](https://imgur.com/3jLkGln.png)
+
+![1](https://imgur.com/UZEgiod.png)
+
+#### Gap chateristics
+
+Gaps not being filled - resist the top when its a gap down, or they resist the bottom when its a gap up. 
+
+`Sell at resistance` that is something he does apparently. Sell resistance, rebuy after we hold a confirmation. On some of these MJ stocks, like bitcoin, not trading on fundamentals or eneterprise value at all its just market hype. So you have people in these stocks that are like well ive already lost 30% how much lower can it go pull up the chart check next level of resistance and alot lower actually - as much as 50% in this case.
+
+https://blazecapital.com/course-3-entries-exits/ this course, section 5: sector stock and conditions and sentiment, that video about 24:30 min in he talks about these big hedge funds how they sell the news over and over same pattern everytime, pay attention to it. Dont buy news, wait for confirmation if you are wanting in. Need to see move up, and it hold.
+
+![1](https://imgur.com/xYEtBOd.png)
 
 
 
