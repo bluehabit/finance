@@ -610,10 +610,15 @@ Disney Example
 * If I am buying with 145 as my target, tight stop would be here in orange, would want to wait for back test instead of putting stop in right away and could probably put your initial stop loss at the second support line - and once you clear the backtest move your stop up. Thats a pretty good strategy ratcheting your stop up and taking profits on the way out.
 * ![1](https://imgur.com/I3pQWmW.png)
 * he posts this chart to slack after
+
+### Tiered Profits and Tiered Stop Losses
 * dont want to put your stop losses RIGHT at resistance because good chance this can be backtested in most moves, instead a little lower to get some breathing room dont want to get `stopped out early` but agian depends on risk tolerance and position amount
 * ![1](https://imgur.com/Khu1MqC.png)
 * ![1](https://imgur.com/Pu3sLnw.png)
 * ![1](https://imgur.com/G374QV7.png)
 * ![1](https://imgur.com/UvZQcPr.png)
-* This is what I go through pretty much every sunday 1 blue chip, 1 ipo, some small caps etc, scan twitter for a few people that i follow for watch list and look through those and see if i agree with them and try to pick the best ones that I see.
+* This is what I go through pretty much every sunday 1 blue chip, 1 ipo, some small caps etc, scan twitter for a few people that i follow for watch list and look through those and see if i agree with them and try to pick the best ones that I see. Can't look at every stock in the world so you might have better ideas than I do.
+* Can do `tiered profits and tiered stop losses`, stop 1 (tight 1), stop 2 (at a support level), stop 3 below a support level
+* ![1](https://imgur.com/ifzCPPR.png)
+* 
 
