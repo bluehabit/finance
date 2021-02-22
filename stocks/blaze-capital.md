@@ -641,3 +641,5 @@ Disney Example
 * so with putts everything is going to be the exact opposite, instead of stop losses being below our targets, its going to be above our targets. So its actually a `buy stop` instead of a stop loss in this scenario. For this one if i had moving cross average upward, or stochastic going upward id probably look for an exit, depends on risk and if you want to scale out on way up or down etc.
 * with swing trading generally prefer options and smaller position sizes because never know whats going to happen over night.
 
+![1](https://imgur.com/JGIYGXX.png)
+
