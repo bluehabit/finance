@@ -1,5 +1,11 @@
 ![1](https://imgur.com/1CHyhXx.png)
 
+# Measure, Track, Improve
+
+What gets tracked, gets improved
+
+![1](https://imgur.com/xtDTaK3.png)
+
 # Blaze Capital Trading Fundamentals
 
 ![d](https://i.imgur.com/9jhtxKz.png)
