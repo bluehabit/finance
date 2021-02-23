@@ -47,6 +47,8 @@ From the following playlist https://www.youtube.com/playlist?list=PL6o37jvhqx9a3
 
 ### Justin Livestream insights
 
+shorter time frames feed UP to the daily trend lines, so sometimes it looks ok on the daily but the shorter time frames start looking choppy (like the 15min vs 1d)
+
 ![1](https://i.imgur.com/g6j6DLi.png)
 
 From 2/18/21 mid-day video
