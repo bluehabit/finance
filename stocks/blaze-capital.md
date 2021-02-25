@@ -319,9 +319,12 @@ https://www.youtube.com/watch?v=MP2Km8qusgE&list=PL6o37jvhqx9a3Uvgs4QZKWA-SBARBK
 
 ![1](https://imgur.com/2QnxiD0.png)
 
+## PUT
+
 •	Can see are calls / puts here
 •	Amazon is a high value stock so these options will move faster versus a lower dollar value stock like $20, so these options should move fast, and with real money amazon type companies would be really good if right, but quite bad if wrong
-•	An option is basically a **bet** from one person to another person that they know which direction the stocks going to or a way to hedge part of their portfolio using **covered calls** which require a **premium**. People pay the premium in order to get an option from the other person. One contract is equal to 100 shares. *A put is a bet that the stock price will go down, so you get the right to sell the security (stock) at a certain price and then a call is the opposite, you get the option to buy the contract at a certain price. These options have a date stamp on them which makes them more risky, because if you are wrong at a certain time your option price could go to zero. With a stock can hold onto it indefinitely if you want and it could go back up, but an option, if you’re wrong in a certain span of time it goes to zero and you get nothing for it.*
+•	An option is basically a **bet** from one person to another person that they know which direction the stocks going to or a way to hedge part of their portfolio using **covered calls** which require a **premium**. People pay the premium in order to get an option from the other person. One contract is equal to 100 shares. 
+* A put is a bet that the stock price will go down, so you get the right to sell the security (stock) at a certain price and then a call is the opposite, you get the option to buy the contract at a certain price. These options have a date stamp on them which makes them more risky, because if you are wrong at a certain time your option price could go to zero. With a stock can hold onto it indefinitely if you want and it could go back up, but an option, if you’re wrong in a certain span of time it goes to zero and you get nothing for it.*
 
 ![1](https://imgur.com/XZjs836.png)
 
