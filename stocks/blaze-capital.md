@@ -375,6 +375,12 @@ https://www.youtube.com/watch?v=MP2Km8qusgE&list=PL6o37jvhqx9a3Uvgs4QZKWA-SBARBK
 
 ### What Is VWAP And How To Use It [Stock Market Indicator]
 
+volume weighted adjusted price
+below orange line average person today who bought
+losing money
+if above average person who bought making money
+going into close if average person is a loser more likely to sell than if they are making money
+
 •	`VWAP is volume weighted average price` Some people use for day trading and enters / exits. Calculated by taking $s traded for every transaction and then multiplied by number of shares traded and divided by total number of trades traded.
 
 ![1](https://imgur.com/Y0ZCumh.png)
