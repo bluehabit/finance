@@ -10,7 +10,7 @@ which is mexico city, if you want to see your local time on the chart
 
 A **put** is a bet that the stock price will go down, so you get the right to sell the security (stock) at a certain price and then a call is the opposite, you get the option to buy the contract at a certain price. These options have a date stamp on them which makes them more risky, because if you are wrong at a certain time your option price could go to zero. With a stock can hold onto it indefinitely if you want and it could go back up, but an option, if you’re wrong in a certain span of time it goes to zero and you get nothing for it
 
-
+![1](https://imgur.com/UhAze3a.png)
 
 
 ## Cognitive Bias
