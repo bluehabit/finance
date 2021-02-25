@@ -28,3 +28,14 @@ Not implemented yet
 Probably not going to use much:
 * EMA exponential moving average (probably not going to use this one more for short trades)
 * VWAP is intraday only, so must pick time frame less than 24h for it  to display correctly
+
+## Plan the Work, Work the Plan
+
+next after projecting, need to set price targets, levels of support, what happens on break up, break down etc.
+these are your PLANS. PLAN the work, work the plan
+
+when does new volume candle post for cyptos? this its like 7pm / 630pm
+
+good indicators for highly volatile/parabolic charts like cryptos?
+
+get bollinger bands to display 3 std deviations instead of one giant green glob
