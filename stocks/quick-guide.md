@@ -1,4 +1,14 @@
+## Candles
+
 ![1](https://imgur.com/2nPIzSh.png)
+
+## macro to micro
+
+* index such as S&P500 
+* sector of S&P500, like QQQ financials
+* big players within sector 
+* individual stocks
+* tech analysis (smas, RSI, candle patterns etc.)
 
 SMA Legend
 * 20 - very short term
