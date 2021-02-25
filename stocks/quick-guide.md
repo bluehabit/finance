@@ -1,3 +1,7 @@
+## NYSE 
+
+The NYSE is open from Monday through Friday 9:30 a.m. to 4:00 p.m. Eastern time. That is 1 hour *ahead* of central time. 
+
 ## Candles
 
 ![1](https://imgur.com/2nPIzSh.png)
