@@ -1,3 +1,4 @@
+![1](https://imgur.com/2nPIzSh.png)
 
 SMA Legend
 * 20 - very short term
