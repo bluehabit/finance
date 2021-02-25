@@ -59,7 +59,12 @@ Not implemented yet
 
 Probably not going to use much:
 * EMA exponential moving average (probably not going to use this one more for short trades)
-* VWAP is intraday only, so must pick time frame less than 24h for it  to display correctly
+* VWAP is intraday only, so must pick time frame less than 24h for it  to display correctly, 
+volume weighted adjusted price
+below orange line average person today who bought
+losing money
+if above average person who bought making money
+going into close if average person is a loser more likely to sell than if they are making money
 
 ## Plan the Work, Work the Plan
 
