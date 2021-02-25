@@ -1,3 +1,20 @@
+Can hide sections of the chart from yourself using arrow keys.
+
+
+utc-6 is central time zone
+which is mexico city, if you want to see your local time on the chart
+
+![1](https://imgur.com/mimnGEi.png)
+
+
+## Cognitive Bias
+
+![1](https://imgur.com/XAvkj1Q.png)
+
+## Confirmation
+
+blaze capital said he had a video of combinging indicators like support levels, RSI, sma. Waiting for confirmation for entries and exits. What serves as confirmation, in a lot of videos backtesting a support line seems to serve as confirmation according to them. I think matt says he usually uses the death / golden cross to CONFIRM price direction
+
 ## NYSE 
 
 The NYSE is open from Monday through Friday 9:30 a.m. to 4:00 p.m. Eastern time. That is 1 hour *ahead* of central time. 
