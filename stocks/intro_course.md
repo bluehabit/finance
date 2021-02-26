@@ -2,6 +2,8 @@ Being able to adapt, an investing environment (easy to go long) vs a traders env
 where botoms are not in, and its choppy, hard to go long and make money, need to be flexible and adapt
 strategies
 
+most volume of the day happens at the open and the close
+
 where should a stock bounce? its always at a previous top, trying to reclaim that level
 
 6% down in 2 days is a big move on the S&P
