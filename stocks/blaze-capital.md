@@ -1,3 +1,17 @@
+
+# Patterns
+
+## Triple Top
+
+3 peaks at nearly the same price level,
+the area of peak is resistance. A triple top signals that the asset may no longer be rallying and that lower prices may be on the way
+
+The pullbacks between the peaks are callled swing lows.After the third peak if the price falls below the swing low, the pattern is considered complete
+and traders watch for a futher move to the downside. Triple tops are traded in the same manner generally as a head and shoulders pattern.
+
+Technically, a tripple top pattern shows the price is UNABLE to PENETRATE the area of the peaks. Generally means asset is unable to find many buyers in that price range. As the price falls, it puts pressure on those who bought near the peak. If the price can't rise above resistance there is limited profit potential in holding onto it.
+
+
 ![1](https://imgur.com/1CHyhXx.png)
 
 # Measure, Track, Improve
