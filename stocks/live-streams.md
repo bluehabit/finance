@@ -27,6 +27,8 @@ The body here being roughly in the middle equally, indicates bear and bull team 
 
 
 
+
+
 ![1](https://imgur.com/2fEjJrg.png)
 
 ![1](https://imgur.com/rl0b7sW.png)
@@ -45,9 +47,18 @@ Think this time might drop 10%  - 20%. Trying to walk cuts lower.
 
 ![1](https://imgur.com/F4XMvQb.png)
 
-This is for monday march 1st. Lots of activity here at `380`. Look at premium attached to them, `3`, that is `380-3=377` its IMPLYING $377 going into monday which would be BELOW The 50 DMA. 
+This is for monday march 1st. Lots of activity here at `380`. Look at premium attached to them, `3`, that is `380-3=377` its IMPLYING $377 going into monday which would be BELOW The 50 DMA on monday. Thats a big Clue.
 
 ![image](https://user-images.githubusercontent.com/10590095/109401213-f616e580-7912-11eb-8330-51c203ae9532.png)
+
+They are also buying all the way to `383`, `383` has `4.50` in premium which implies `378.5` why does that matter, thats where our 50 dma is. 
+
+![image](https://user-images.githubusercontent.com/10590095/109401407-24e18b80-7914-11eb-95b6-ba18c16a08ee.png)
+
+People are betting monday we are going to break the chart and crack the 50 dma. Bullish or bearish have to give these people respect because they are putting up more $ on puts than the calls. `Volume of 34,152 x 1.5` is more than $50 million that traded? Even though that number comes out to 51,228 so not sure maybe because it reprsents 1k?
+
+**What site is he using for option chains**?
+
 
 
 
