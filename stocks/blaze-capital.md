@@ -21,7 +21,7 @@
 ![1](https://imgur.com/4heSUIZ.png)
 
 
-## Triple Top
+## Triple Top aka W Pattern
 
 3 peaks at nearly the same price level,
 the area of peak is resistance. A triple top signals that the asset may no longer be rallying and that lower prices may be on the way
@@ -40,6 +40,12 @@ https://www.investopedia.com/terms/t/tripletop.asp
 ![1](https://imgur.com/FFTCrJW.png)
 
 ![1](https://imgur.com/1CHyhXx.png)
+
+![1](https://i.imgur.com/lqZKnwi.png)
+
+![1](https://imgur.com/GK5pwHF.png)
+
+![1](https://imgur.com/4bTsrWG.png)
 
 # Measure, Track, Improve
 
