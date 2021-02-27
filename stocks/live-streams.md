@@ -25,6 +25,8 @@ The body here being roughly in the middle equally, indicates bear and bull team 
 
 ![1](https://imgur.com/EDRtKci.png)
 
+
+
 ![1](https://imgur.com/2fEjJrg.png)
 
 ![1](https://imgur.com/rl0b7sW.png)
@@ -33,5 +35,20 @@ Still moving up
 
 ![1](https://imgur.com/hF247jh.png) 
 
-If we break down from 373, if you check different time scopes, we lose the monthly 
+If we break down from 373 red year to date, if you check different time scopes, we lose the daily uptrend, monthly uptrend and 363 becomes next support uh oh. **We are at a 2.5% cut thats not enough for damage, I guess maybe thats why 1% is the stop loss because with traditional stocks 1% is a decent size move**. In 10 minutes half the progress we made in 2 months (yearly gains through feb) is a pretty big cut.
+
+### Next look at option chain to see if clues to see where we are going to go
+
+Bears on options won this friday (2/26/21). Pulling up chains for next week
+
+Think this time might drop 10%  - 20%. Trying to walk cuts lower. 
+
+![1](https://imgur.com/F4XMvQb.png)
+
+This is for monday march 1st. Lots of activity here at `380`. Look at premium attached to them, `3`, that is `380-3=377` its IMPLYING $377 going into monday which would be BELOW The 50 DMA. 
+
+![image](https://user-images.githubusercontent.com/10590095/109401213-f616e580-7912-11eb-8330-51c203ae9532.png)
+
+
+
 
