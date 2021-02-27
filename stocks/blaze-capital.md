@@ -4,12 +4,22 @@
 
 
 
-
 # Patterns
 
 ## Case Studies
 
+#### 2020 Dow Decline
+
 ![1](https://imgur.com/9PRiJMt.png)
+
+### DOGE Coin
+
+![1](https://imgur.com/xbwx3t7.png)
+
+![1](https://imgur.com/whCtqRO.png)
+
+![1](https://imgur.com/4heSUIZ.png)
+
 
 ## Triple Top
 
