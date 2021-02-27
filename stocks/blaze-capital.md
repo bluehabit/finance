@@ -37,6 +37,7 @@ The following chart shows an example of a triple top in Bruker Corp. (BRKR). The
 
 https://www.investopedia.com/terms/t/tripletop.asp
 
+![1](https://imgur.com/FFTCrJW.png)
 
 ![1](https://imgur.com/1CHyhXx.png)
 
