@@ -147,7 +147,9 @@ Is US only one struggling how about rest of the world?
 
 ![image](https://user-images.githubusercontent.com/10590095/109402638-fcaa5a80-791c-11eb-82d0-f2562e7a32b7.png)
 
-Payroll friday, adding jobs?
+#### Payroll friday
+
+adding jobs?
 
 ![image](https://user-images.githubusercontent.com/10590095/109402722-be616b00-791d-11eb-906b-0ba74946d270.png)
 
@@ -158,6 +160,14 @@ Keep that in mind on this comment
 ![image](https://user-images.githubusercontent.com/10590095/109402730-d46f2b80-791d-11eb-8f30-3daadb54d1eb.png)
 
 If jobs come in red, oh well we lost more jobs than we thought got to print more. If it comes in decent, hey positive sign but not at max employment yet so not time to raise rates.
+
+Trying not to just tell you what happens, trying to give you the clues im using to build a case.
+
+If your bull prepare for worst, prepare for bear. Even though you expect bear. And same conversley, make a plan, then work the plan.
+
+### Stock Rotation, MUSICAL chairs
+
+Generally speaking if see stocks going down, want to see something else going up like gold to see people ROTATING around, treasuries went up 3% people are like screw gold, screw bitcoin i want them TBILLS / treasuries. Theres a theme. do you understand?
 
 
 
