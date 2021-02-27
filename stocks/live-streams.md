@@ -11,6 +11,9 @@ https://www.youtube.com/watch?v=pCOQb_3yf-Q&t=24s&ab_channel=BlazeCapital
 *	People don’t understand what **bond yields** are and that’s whats driving the market right now – **bond yields**
 *	If we zoom out and look at the **yearly chart**, we have almost a perfect **doji** showing a **roughly same size of wick on the bottom and top**, a doji generally indicates indecision. Reason for indecision is we see roughly same progress in bear territory as we do bull, although we see roughly 1.7% gain for the year. Not where the body for the candle is inbetween the wicks, the body is roughly in the middle. Which team is in control? Justin shrugs I dunno, they are both football teams bear and bulls roughly at the 50 yard line.
 
+![image](https://user-images.githubusercontent.com/10590095/109402821-87d82000-791e-11eb-8348-81ddf8f45e9f.png)
+
+
 ![1](https://imgur.com/lqZKnwi.png)
 
 ![1](https://imgur.com/GK5pwHF.png)
@@ -74,4 +77,128 @@ These `SH1` alerts correspond to these drops on the `S&P500`. Pink arrows on bel
 
 ![image](https://user-images.githubusercontent.com/10590095/109401684-aa197000-7915-11eb-8c3f-261a7771b5e3.png)
 
-https://imgur.com/4O7XgYn
+![1](https://imgur.com/4O7XgYn.png)
+
+again 10% move correction 20% Bear market
+
+`vix` also giving us algo alerts. So we have warnings from Justin the human, and algo, uh oh, hang on to your butts. Last time we had these warnings were in Feb 2020 and Sep 2021 which led to 30% drop and 10% drop. Seing option flow confirmation, Technical confirmation, Algo confirmation I think recipe is to go down now. If we are losing 10% is there anywhere for a risk reward ratio, meaning if we risk $1 we can at least make a $1 in profit. R of 1. Is it probable, not just possible.
+
+Sideways also doens't mean down, it just means flat.
+
+If you look at the `w` shapes, if you take the bottom and top of the `w` it kind of forms a channel, and if you notice on this latest `w` it is very small, narrow channel, and we are now trading `sideways` basically so the chart is bascially `flat`.
+
+![1](https://imgur.com/IoGmkeQ.png)
+
+A daily close below `385` is a warning, a weekly close below `378` is confirmation
+
+![image](https://user-images.githubusercontent.com/10590095/109402087-8a377b80-7918-11eb-888f-5b648bcfd3fb.png)
+
+Last time what caused S&P to drop was tech stocks, this time its treasuries. Treasury yield increase, stocks go down. We get bullish news from stimulus, not getting bullish reaction. 
+
+![image](https://user-images.githubusercontent.com/10590095/109402131-f6b27a80-7918-11eb-8e99-6e77403c1a98.png)
+
+If we look at treasury yield vs SPY S&500 etf dividend yield at 1.5% right now 
+
+![image](https://user-images.githubusercontent.com/10590095/109402153-15187600-7919-11eb-8487-9ec762a5c573.png)
+
+What is a treasury bond / treasuries , treasury gov debt. to finance gov spending as an alternative to taxation. Fed reserve purchases treasuries to fund the goverment instead of taxing. They are artificially buying debt, that no one else wants to, meaning that they are artificially supporting the economy. Why does that matter, backed by the US gov, only way they would not be able to pay this back is if the US gov fails.
+
+10 year treasury 
+![image](https://user-images.githubusercontent.com/10590095/109402201-780a0d00-7919-11eb-9d8e-812d94cbfa8b.png)
+
+OVer the next 10 years assumming inflation is not going to be above 1.4 averaged out otherwise losing buying power. However in S&P if you are getting a 1.5% dividend yield every 4 months but the market is dropping by more than 1.5% you are getting no net benefit. If your dividend is at 1.5% but market drops by 1.35% you are only yielding .1 percent. Tresasury is RISK FREE RETURN. WHat can you get without any work and no thinking, might lose buying power, but not going to lose anything on the underlying asset. `If treasury bonds keep going up stocks are going to be under more pressure.`
+
+WHY is this going up? 
+
+![image](https://user-images.githubusercontent.com/10590095/109402242-df27c180-7919-11eb-9011-f519cf5be32d.png)
+
+Algo is saying (pink bar on above chart) keep going higher for weeks to months. Pink bar is an investment bar for the algo, investment meaning weeks to months. 
+
+The financial crisis in 2009 a quarter a issue of what we have now, doing 4x more printing now than then. A 10 year treasury means you are lending the US gov money for the next 10 years, going to give you a yield 1.4% return. The outlook for the next 10 years, if we are printing 4x than we did during 2009 crisis, the problem is a quarter as bad, thats a factor or 16x, printing 16x more relative than problem we have. More printing = more money going into system = more inflation = bonds have to rise becuase inflation is going to be higher.
+
+As people are sitting at home during this pandemic not spending money inflation is neutral because not spending money. However as we get stimulus checks, go back to work, economy rebounds, go back to work, that causes growth that causes inflation why more money in system. As we looked at before `oil prices going up, food prices going up` those are `two major factors` in `CPI consumer price index`.
+
+![image](https://user-images.githubusercontent.com/10590095/109402385-22cefb00-791b-11eb-9e38-222b692b1dc8.png)
+
+Eventual tapering tantrum means QE the fed res purchases treasury yields to artificially move them lower, why lets pretend there selling 100 treasuries , normal apetite for investors is they are going to buy 50 of them, but when fed buys 100 the yield goes down because more buyers so command lower price. So the fed stops buying there is all this supply / demand not filing anymroe someone else is going to have to fill it. 
+
+So if they want to keep selling prices are going to have to go up thats what taper tantrum is. Not just that but `raising intrest rates`, if inflation gets to 2% and employment is full fed says we will begin raising rates. If gov is going to be rasiing rates, bond yields have to rise  too.  ![1](https://imgur.com/OzEb2ow.png)
+
+Taper tantrum - on investopedia
+https://www.investopedia.com/terms/t/taper-tantrum.asp#:~:text=Taper%20tantrum%20refers%20to%20the,quantitative%20easing%20(QE)%20program.
+
+QE is fed punch bowl, liquidity. Same kind of commentary from `black rock`. He is saying don't buy bonds, dont buy that they are downgrading it.
+
+Fed heads talking. Fed hawkish means bearish for stocks, dovish fed means bullish for stocks. Feds usually have panel of hawkish / dovish people, and can see how the markets react for the dovish/hawkish policy. Feds talking really really matters, cannot emphasize this enough. They need to use this dip down to the 50 dma as either a bull pivot or a bear pivot. The fed head panel sets the tone, and JPOW delivers the punch on thursday. The panel t's it up for JPOW, he is the big player if he came in as first speaker on monday and says the wrong thing can mess everything up. News vs reaction to the news. Panel gives them a preview of how the market is going to respond. This group is the FOMC Federal Open Market Committee 
+
+![image](https://user-images.githubusercontent.com/10590095/109402526-447cb200-791c-11eb-8689-5d8625edbb87.png)
+
+Thats why alot of potential as we go into friday of next week.
+
+### Seasonality Chart
+
+What normally happens this time of the year, seasonly? OMG we drop jan through march, rally in april
+
+![image](https://user-images.githubusercontent.com/10590095/109402598-aa693980-791c-11eb-93ff-5f41396985b9.png)
+
+### Global Indicies
+
+Is US only one struggling how about rest of the world?
+
+![image](https://user-images.githubusercontent.com/10590095/109402638-fcaa5a80-791c-11eb-82d0-f2562e7a32b7.png)
+
+Payroll friday, adding jobs?
+
+![image](https://user-images.githubusercontent.com/10590095/109402722-be616b00-791d-11eb-906b-0ba74946d270.png)
+
+If this number is weak could be spun as positive or negative.
+
+Keep that in mind on this comment
+
+![image](https://user-images.githubusercontent.com/10590095/109402730-d46f2b80-791d-11eb-8f30-3daadb54d1eb.png)
+
+If jobs come in red, oh well we lost more jobs than we thought got to print more. If it comes in decent, hey positive sign but not at max employment yet so not time to raise rates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
