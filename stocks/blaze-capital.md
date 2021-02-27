@@ -1,3 +1,9 @@
+## Log is very helpful for crypto since its parabolic
+
+![1](https://imgur.com/x8sGELd.png)
+
+
+
 
 # Patterns
 
