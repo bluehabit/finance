@@ -47,6 +47,9 @@ https://www.investopedia.com/terms/t/tripletop.asp
 
 ![1](https://imgur.com/4bTsrWG.png)
 
+![image](https://user-images.githubusercontent.com/10590095/109402889-21073680-791f-11eb-98c5-f8334ab426db.png)
+
+
 # Measure, Track, Improve
 
 What gets tracked, gets improved
