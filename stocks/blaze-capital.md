@@ -1,6 +1,10 @@
 
 # Patterns
 
+## Case Studies
+
+![1](https://imgur.com/9PRiJMt.png)
+
 ## Triple Top
 
 3 peaks at nearly the same price level,
@@ -10,6 +14,12 @@ The pullbacks between the peaks are callled swing lows.After the third peak if t
 and traders watch for a futher move to the downside. Triple tops are traded in the same manner generally as a head and shoulders pattern.
 
 Technically, a tripple top pattern shows the price is UNABLE to PENETRATE the area of the peaks. Generally means asset is unable to find many buyers in that price range. As the price falls, it puts pressure on those who bought near the peak. If the price can't rise above resistance there is limited profit potential in holding onto it.
+
+The following chart shows an example of a triple top in Bruker Corp. (BRKR). The price reaches near $36.50 on three consecutive attempts. The price pulls back between each attempt, creating the triple top pattern. The stock quickly broke below trendline support at $34 and continued to decline on escalating volume.
+
+![1](https://imgur.com/4bRrTN3.png)
+
+https://www.investopedia.com/terms/t/tripletop.asp
 
 
 ![1](https://imgur.com/1CHyhXx.png)
