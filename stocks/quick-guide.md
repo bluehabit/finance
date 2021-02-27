@@ -1,5 +1,9 @@
-Can hide sections of the chart from yourself using arrow keys.
+## Correction vs Bear Market
 
+10% move correction
+20% Bear market
+
+Can hide sections of the chart from yourself using arrow keys.
 
 utc-6 is central time zone
 which is mexico city, if you want to see your local time on the chart
