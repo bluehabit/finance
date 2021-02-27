@@ -55,11 +55,23 @@ They are also buying all the way to `383`, `383` has `4.50` in premium which imp
 
 ![image](https://user-images.githubusercontent.com/10590095/109401407-24e18b80-7914-11eb-95b6-ba18c16a08ee.png)
 
-People are betting monday we are going to break the chart and crack the 50 dma. Bullish or bearish have to give these people respect because they are putting up more $ on puts than the calls. `Volume of 34,152 x 1.5` is more than $50 million that traded? Even though that number comes out to 51,228 so not sure maybe because it reprsents 1k?
+People are betting monday we are going to break the chart and crack the 50 dma. Bullish or bearish have to give these people respect because they are putting up more $ on puts than the calls. `Volume of 34,152 x 1.5` is more than $50 million that traded? Even though that number comes out to 51,228 so not sure maybe because it reprsents 1k? Chain is implying down.
 
 **What site is he using for option chains**?
 
+### I dunno
 
+Treasuries `TLT` alerting on the daily chart.
 
+![image](https://user-images.githubusercontent.com/10590095/109401630-5f97f380-7915-11eb-9c7a-60e09defdbc5.png)
 
+`SH1` alert = SH (proshares short ONE DAY) alert
+algo alert monday (2/22), friday (2/26)
+feb 21st
+sept 3rd
 
+These `SH1` alerts correspond to these drops on the `S&P500`. Pink arrows on below image show where the alerts went off on SH and when S&P500 dropped. So this is more evidence, in addition to the option chain, so now more bearish than thought before. Got these algo alerts as he was doing videos. Telling us S&P bearish for the next few weeks to months
+
+![image](https://user-images.githubusercontent.com/10590095/109401684-aa197000-7915-11eb-8c3f-261a7771b5e3.png)
+
+https://imgur.com/4O7XgYn
