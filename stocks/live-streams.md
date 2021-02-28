@@ -211,6 +211,11 @@ When justin started being successful about 5 years ago he was swing trading at t
 
 Most broker commissions are zero now a days, close the trade and get back in if you see confirmation. If you still like it can buy it back 2 seconds later if you want. It resets your profit and loss. **Just SELL, get back in!**, wanting to 'break even' is a natural barrier for humans I didn't even know about this until 5 years of trading - yah well of course I want to get my money back why would i get out for less (lol). After i got KO'd 18 times I finally understood.
 
+### Trading Slump
+
+When in a trading Slump, natural tendency to want to make it back, usually thats a trap. people generally want to break even thats human psychology. Aim is to be PROFITABLE not perfect, its ok to have losing trades, or a string of bad trades. Tjhese best practices are condensed basically from the market wizards book. If in a slump take a step back - take a break try to avoid trying to make it back and erase losses.
+
+
 
 #### Q&A
 
@@ -223,6 +228,13 @@ zooms in on the 5 min for more detail
 ![image](https://user-images.githubusercontent.com/10590095/109407138-0f845580-7944-11eb-828a-e2e2f963890b.png)
 
 Here on the 5 min trying to figure out how we get from 775 to 800, how is that going to happen? The levels are set from the daily, but then I zoom in with those levels still on (as shown in this 5 min diagram) and trying to figure out is there a trade here. So for example on this one, I would wait for it to break and hold 775, back test it for confirmation ? and then ride it up. 
+
+
+### BTC has an option chain ....
+
+![image](https://user-images.githubusercontent.com/10590095/109407739-f7fb9b80-7948-11eb-817d-3edc1fbb98ae.png)
+
+Need to learn to read this shit
 
 ##### Trend lines on the bodies
 
@@ -249,27 +261,35 @@ And support resistance
 Are we trending up or down?
 On BYND if we were to get above `148`, one of the key levels in red (resistance) then our target is `161`. If we were to lose `148`, then our support target becomes `116`.
 
+`increasing price, decreasing volume` that is a warning!
+
 ![image](https://user-images.githubusercontent.com/10590095/109407367-d816a880-7945-11eb-8992-5d9f810c9c2d.png)
 
+more trendlines he drew
 
+![image](https://user-images.githubusercontent.com/10590095/109407540-4740cc80-7947-11eb-9de4-f2ecd99d6d23.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Goldman sachs shennanigans
+## Goldman sachs shennanigans / Goldman sachs pins
 
 ![image](https://user-images.githubusercontent.com/10590095/109407064-98e75800-7943-11eb-9570-6a0de7273724.png)
+
+More detailed answer here: https://youtu.be/i9GKF3oN-sY?t=5999
+
+Talks about clues from level 2 option chain, I look at options chain because i know thats where the $ flows and i like to follow the $
+
+continues talking about this on next chapter of the video
+
+![image](https://user-images.githubusercontent.com/10590095/109407524-1b254b80-7947-11eb-958b-290c46026ff5.png)
+
+### Example
+
+Viewer asked, should I get out on this chart ... trending down .. yah
+
+![image](https://user-images.githubusercontent.com/10590095/109407760-33966580-7949-11eb-9958-23afac2ecdfc.png)
+
+
+
+
 
 
 
