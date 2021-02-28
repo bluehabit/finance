@@ -172,6 +172,144 @@ Generally speaking if see stocks going down, want to see something else going up
 
 
 
+## LIVE STOCK MARKET Q&A - Top 3 Investing, Trading Rules and Best Practices [May 20, 2020]
+
+https://www.youtube.com/watch?v=i9GKF3oN-sY&list=PL6o37jvhqx9b8j1AR8GOehWI0vLstXEdW&ab_channel=BlazeCapital
+
+While learning, without experience etc. trades and positions should reflect that.
+
+For average trader, losing 5% and cutting loses is acceptable. Once you get to 10% gets harder to admit you were wrong on the trade and hurts. From 10, 15, is even less because you get beat up and start to accept the loss, and beyond. When people stuck in trade dont know what to do, dont want to mentally accept it.
+Its ok to make a mistake, you dont have to lose a ton of money. I know this, because I do it too (justin). The worst part is you might shutdown, and not LEARN.
+
+Always talk about risk / reward. 
+
+![image](https://user-images.githubusercontent.com/10590095/109405884-42295080-793a-11eb-9046-b6d5ee5da660.png)
+
+If you start trading and expect to make a money on first couple days / trades, not a good mentality. The market humbles all it just takes enough time. Expect the best, prepare for the worst, and be prepared for a suprise. S&P return is about 9.8% per year, how much should we be able to out perform the S&P per week? Lets call it 20%. Lets pretend starting with 10k investment, not adding money, just growing it. Semi pro thats why im only using 2x. That means you need about .5% a week thats .07 per day, a tenth of one percent almost. Takes about 12.5 years to get 10k to 100k even with compounding.
+
+Should build up on a small base to learn. If we are learning dont want to blow our account only put in 5k or 10k, not 25.
+
+Warren Buffets ROI is 30% per year.
+
+Lets see how we can compress this time line. Just does 'both' he has a business and a personal to maximize tax benefits, what does both mean here?
+
+![image](https://user-images.githubusercontent.com/10590095/109406429-9b937e80-793e-11eb-917a-31d9e7ad2235.png)
+
+Logging is critical, remember what gets measured gets improved. Logging trades, probably took me 5 years to learn.
+
+Market Wizards book interview with top traders, try to learn from their mistakes so I dont make them myself. Before you can compound your account, have to be able to earn a consistent profit. Before can earn profit, need to learn what you dont know. Therefore, if you are in the learning stage, avoid trading like you are trying to 'grow your account' e.g. not going all in, trading in smaller amounts etc. If you are learn stage, are you trading like you are still trying to learn or are you punching above your weight class. If learning, dont get discouraged.
+
+Annaul Letters from Warren Buffett also a good book
+
+![image](https://user-images.githubusercontent.com/10590095/109406597-f679a580-793f-11eb-8cf9-5806185a8c92.png)
+
+Trying to 'make trades back' is revenge trading. Say you bought in at $100, and its at $90 people want to get out at break even, instead of taking a hair cut thats the human tendency. Would you buy the trade fresh here? **If you are in a losing trade, question is would you buy it fresh here. If going long would you buy it right here? If answer is no, the trade is now bad and how bad it gets is up to you. If the answer is no, GTFO.** Read these carefully, would you buy this stock right now in cash and go long, if answer is no you got losers in your port. Cutting your winners fast and letting your losers run is a common problem for new traders. If you can be decent after 5 years you are beating me , took me 5 years to stop stucking. Remember what justin said also on another video, you should do your research before enterting a trade - and see confirmation shortly after buying into it of your hypothesis.
+
+When justin started being successful about 5 years ago he was swing trading at the time, living on the west coast he could wake up at 6:30 am, from 6:30 to 8am basically had 2 hours to trade the open which was perfect. Would trade open, go to job, swing trade, set alerts. **Justin says something to the effect of let trades come to you in this video I believe**.
+
+### WHATS THE COST TO EXIT AND THEN RE-ENTER
+
+Most broker commissions are zero now a days, close the trade and get back in if you see confirmation. If you still like it can buy it back 2 seconds later if you want. It resets your profit and loss. **Just SELL, get back in!**, wanting to 'break even' is a natural barrier for humans I didn't even know about this until 5 years of trading - yah well of course I want to get my money back why would i get out for less (lol). After i got KO'd 18 times I finally understood.
+
+
+#### Q&A
+
+How do you pick your support / resistance levels? I usually get my levels from daily level. Justin often puts in a red line (resistance) and a green line (support) and then a blue line for the trend line. Starting off zoomed out on the daily
+
+![image](https://user-images.githubusercontent.com/10590095/109407126-fda2b280-7943-11eb-927e-84d6c011969e.png)
+
+zooms in on the 5 min for more detail
+
+![image](https://user-images.githubusercontent.com/10590095/109407138-0f845580-7944-11eb-828a-e2e2f963890b.png)
+
+Here on the 5 min trying to figure out how we get from 775 to 800, how is that going to happen? The levels are set from the daily, but then I zoom in with those levels still on (as shown in this 5 min diagram) and trying to figure out is there a trade here. So for example on this one, I would wait for it to break and hold 775, back test it for confirmation ? and then ride it up. 
+
+##### Trend lines on the bodies
+
+**I prefer to use real body for support / resistance and not the wicks**, the reason why is when we zoom in, the real body basically means what the real opening and closing price was. And why does that matter? Well where is most of the volume.... at the open and close. Its not that i dont care about where the wick is, I care more about where the real body is because thats where volume is, and where most volume is mean more shareholders tested - so a key level. This ZM one if it breaks ceiling becomes **blue sky breakout**.
+
+![image](https://user-images.githubusercontent.com/10590095/109407195-69851b00-7944-11eb-80c9-370199daf5d3.png)
+
+For this trade right here I personally wouldn't do it, how much can we make, lets measure
+
+![image](https://user-images.githubusercontent.com/10590095/109407255-eb754400-7944-11eb-8fd1-145292243d8e.png)
+
+Can make about 1.5%
+
+![image](https://user-images.githubusercontent.com/10590095/109407261-fcbe5080-7944-11eb-8942-b17dce7ff03f.png)
+
+However ... trade is not going to be quite as easy, **its much closer to resistance than support**, so what that tells me is that at the end of this funnel downside risk - going from where we are currently to next support level (green), which is 21%...
+
+![image](https://user-images.githubusercontent.com/10590095/109407289-3beca180-7945-11eb-8a89-8d9a3fe80cf1.png)
+
+If im going to risk 21% potentially 1.6% yah... pass
+
+Volume is one of the #1 things I look at
+And support resistance
+Are we trending up or down?
+On BYND if we were to get above `148`, one of the key levels in red (resistance) then our target is `161`. If we were to lose `148`, then our support target becomes `116`.
+
+![image](https://user-images.githubusercontent.com/10590095/109407367-d816a880-7945-11eb-8992-5d9f810c9c2d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Goldman sachs shennanigans
+
+![image](https://user-images.githubusercontent.com/10590095/109407064-98e75800-7943-11eb-9570-6a0de7273724.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
