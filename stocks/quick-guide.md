@@ -2,6 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/10590095/109443825-33f23780-7a01-11eb-8bfa-2eac58faeac2.png)
 
+support broken = bullwick
+resistance broken = bearwick
+
 
 ## Weekly/Monthly and Daily Trendline relationship
 
