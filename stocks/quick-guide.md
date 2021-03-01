@@ -2,9 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/10590095/109443825-33f23780-7a01-11eb-8bfa-2eac58faeac2.png)
 
-cross under = support broken = bullwick
+cross under = support broken = bearwick
 
-cross over = resistance broken = bearwick
+cross over = resistance broken = bullwick
 
 
 ## Weekly/Monthly and Daily Trendline relationship
