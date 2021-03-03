@@ -4,6 +4,11 @@
 
 ![image](https://user-images.githubusercontent.com/10590095/109744740-6d10e000-7b98-11eb-997f-6f5ac8c2a8fc.png)
 
+### Alerts
+
+![image](https://user-images.githubusercontent.com/10590095/109745163-12c44f00-7b99-11eb-9bc1-4dc7597e9601.png)
+
+
 
 ## Crossover / Crossunder
 
