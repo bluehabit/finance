@@ -12,6 +12,11 @@
 
 ![1](https://imgur.com/9PRiJMt.png)
 
+![image](https://user-images.githubusercontent.com/10590095/109745008-df81c000-7b98-11eb-8790-61ef9e2b980d.png)
+
+![image](https://user-images.githubusercontent.com/10590095/109745069-f1636300-7b98-11eb-93de-b27fc2a9c35d.png)
+
+
 ### DOGE Coin
 
 ![1](https://imgur.com/xbwx3t7.png)
