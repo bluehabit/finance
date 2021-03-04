@@ -1,7 +1,8 @@
+Name of tool that attempts to find bottoms on trading view
+
 ## Kraken
 
 ![image](https://user-images.githubusercontent.com/10590095/109897654-a6a92000-7c58-11eb-80c3-e7070be873ff.png)
-
 
 
 ## TradingView
@@ -12,6 +13,32 @@
 ![image](https://user-images.githubusercontent.com/10590095/109897377-3ac6b780-7c58-11eb-8c0d-a1f2a1d978b0.png)
 
 ![image](https://user-images.githubusercontent.com/10590095/109897583-8e390580-7c58-11eb-866c-81b2deaa0427.png)
+
+![image](https://user-images.githubusercontent.com/10590095/109897789-d526fb00-7c58-11eb-88b9-e134edc81973.png)
+
+![image](https://user-images.githubusercontent.com/10590095/109898388-c9880400-7c59-11eb-802a-cb33d074be1a.png)
+
+paper trading
+
+sometimes smaller timeframes work there way up to the bigger time frames 
+you will see bullish patterns, movement in the 15, then in 30, 45, hour, day etc.
+
+need to know these
+r1, r2, r3
+s1, s2, s3
+if all you do is hodl what happens
+
+algo told you to sell spy at 350,
+why, 350 always has a powerful move 
+on mon,weds,friday todays friday 
+
+kevin developer for blaze capital algo
+
+
+tc2000 is the other charting software
+justin uses
+
+amc is 'rangebound' right now
 
 
 
