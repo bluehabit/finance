@@ -7,12 +7,21 @@ Name of tool that attempts to find bottoms on trading view
 
 ## TradingView
 
+### Alerts
+
+![image](https://user-images.githubusercontent.com/10590095/109898678-3f8c6b00-7c5a-11eb-9aaf-e8c6ba2e5d28.png)
+
+
 ### Adding to watch list
 
 ![image](https://user-images.githubusercontent.com/10590095/109898562-1966cb00-7c5a-11eb-82c5-57a199a88ed1.png)
 
 
 ### Misc.
+
+![image](https://user-images.githubusercontent.com/10590095/109898757-5d59d000-7c5a-11eb-8cb1-d2ae65f35a57.png)
+
+![image](https://user-images.githubusercontent.com/10590095/109898885-9003c880-7c5a-11eb-81b0-44323cee13a3.png)
 
 ![image](https://user-images.githubusercontent.com/10590095/109897377-3ac6b780-7c58-11eb-8c0d-a1f2a1d978b0.png)
 
