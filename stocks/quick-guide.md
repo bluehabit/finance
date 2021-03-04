@@ -1,5 +1,11 @@
 ## TradingView
 
+
+### Misc.
+
+![image](https://user-images.githubusercontent.com/10590095/109897377-3ac6b780-7c58-11eb-8c0d-a1f2a1d978b0.png)
+
+
 ### Add to Watchlist
 
 ![image](https://user-images.githubusercontent.com/10590095/109744740-6d10e000-7b98-11eb-997f-6f5ac8c2a8fc.png)
