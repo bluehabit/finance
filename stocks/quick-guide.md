@@ -1,9 +1,18 @@
+## Kraken
+
+![image](https://user-images.githubusercontent.com/10590095/109897654-a6a92000-7c58-11eb-80c3-e7070be873ff.png)
+
+
+
 ## TradingView
 
 
 ### Misc.
 
 ![image](https://user-images.githubusercontent.com/10590095/109897377-3ac6b780-7c58-11eb-8c0d-a1f2a1d978b0.png)
+
+![image](https://user-images.githubusercontent.com/10590095/109897583-8e390580-7c58-11eb-866c-81b2deaa0427.png)
+
 
 
 ### Add to Watchlist
