@@ -1,3 +1,8 @@
+## Stock Options
+
+A **put** is a bet that the **stock price will go down**, so you get the right to sell the security (stock) at a certain price and then 
+a **call** is the opposite, betting the **stock price will go up**, you get the option to buy the contract at a certain price
+
 Name of tool that attempts to find bottoms on trading view
 
 ## Kraken
