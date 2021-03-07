@@ -12,3 +12,13 @@ Lately (when he recorded this in may 2012) head and shoulders patterns haven't b
 ![image](https://user-images.githubusercontent.com/10590095/110248641-ca5db600-7f37-11eb-9b58-09ca218c1b13.png)
 
 ![image](https://user-images.githubusercontent.com/10590095/110248652-d21d5a80-7f37-11eb-9f4f-a445ca74fca6.png)
+
+Then we start tanking, and then I see the exact opposite starting to occur. **Before we had a bearish divergence where we had the price making higher highs, but the momentum indicators putting in LOWER highs.** A downward slope. 
+
+Now opposite, bullish divergence. RSI and Macd here are starting to a show a **higher low**, an upward slope. What that tells me even though S&P is tanking, the momentum indicators on the downside tell me that the downside momentum is not being confirmed by these indicators (macd/rsi) due to higher lows. So if you were to think yah the market is going to keep tanking, be watchful, you could buy puts (betting market will drop) but meanwhile if you dont know whats going on under the hood with these momentum indicators wouldn't know that a reversal is possibly happening with this upward slope / higher lows. 
+
+Private members asked him during this time, he Stewie should we short here, my answer was no. No-way do not short here. When i start seeing bottom patterns like this, I start looking for long positions.
+
+![image](https://user-images.githubusercontent.com/10590095/110248874-cf6f3500-7f38-11eb-8eaf-f28c51fd5890.png)
+
+![image](https://user-images.githubusercontent.com/10590095/110248876-d8600680-7f38-11eb-9887-ed2a4720d86a.png)
