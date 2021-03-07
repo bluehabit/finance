@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/10590095/110248451-d301bc80-7f36-11eb-93f2-78d0ccb99520.png)
+
+
 ## Stock Options
 
 A **put** is a bet that the **stock price will go down**, so you get the right to sell the security (stock) at a certain price and then 
