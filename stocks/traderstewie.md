@@ -30,4 +30,5 @@ But just imagine if we dont bounce, we can drop down another leg because that wo
 ![image](https://user-images.githubusercontent.com/10590095/110248930-178e5780-7f39-11eb-8ab2-f727c663b683.png)
 
 ![image](https://user-images.githubusercontent.com/10590095/110249034-8c619180-7f39-11eb-92d6-9596ccdc65d1.png)
+In this hypothetical situation, probably big snap back rally. 
 
