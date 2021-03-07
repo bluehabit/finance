@@ -43,4 +43,4 @@ Use RSI and MacD as momentum indicators, tell me wether momentum on downside is 
 
 ![image](https://user-images.githubusercontent.com/10590095/110252541-98eee580-7f4b-11eb-9323-4e1f8ef1b47b.png)
 
-![image](https://user-images.githubusercontent.com/10590095/110252547-9c826c80-7f4b-11eb-81ea-f76114b11132.png)
+![image](https://user-images.githubusercontent.com/10590095/110252635-f2efab00-7f4b-11eb-9656-babdf44108c2.png)
