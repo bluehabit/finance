@@ -23,4 +23,11 @@ Private members asked him during this time, he Stewie should we short here, my a
 
 ![image](https://user-images.githubusercontent.com/10590095/110248876-d8600680-7f38-11eb-9887-ed2a4720d86a.png)
 
-Telling us opportunity for a bounce here.
+Telling us opportunity for a bounce here. Wait for confirmation however
+
+But just imagine if we dont bounce, we can drop down another leg because that would be 3rd test, and imagine what market sentiment will be like at that point, very negative (shown in black cross below)
+
+![image](https://user-images.githubusercontent.com/10590095/110248930-178e5780-7f39-11eb-8ab2-f727c663b683.png)
+
+![image](https://user-images.githubusercontent.com/10590095/110249034-8c619180-7f39-11eb-92d6-9596ccdc65d1.png)
+
