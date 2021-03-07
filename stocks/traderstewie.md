@@ -19,6 +19,13 @@ Now opposite, bullish divergence. RSI and Macd here are starting to a show a **h
 
 Private members asked him during this time, he Stewie should we short here, my answer was no. No-way do not short here. When i start seeing bottom patterns like this, I start looking for long positions.
 
+Same chart, but on 1D since I dont have data for 30min chart that far back
+
+![image](https://user-images.githubusercontent.com/10590095/110252528-870d4280-7f4b-11eb-9031-114c5522a8a1.png)
+
+![image](https://user-images.githubusercontent.com/10590095/110252531-8b396000-7f4b-11eb-9d7f-559947067bef.png)
+
+
 ![image](https://user-images.githubusercontent.com/10590095/110248874-cf6f3500-7f38-11eb-8eaf-f28c51fd5890.png)
 
 ![image](https://user-images.githubusercontent.com/10590095/110248876-d8600680-7f38-11eb-9887-ed2a4720d86a.png)
