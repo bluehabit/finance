@@ -2,6 +2,9 @@
 
 https://www.youtube.com/watch?v=adSGUkNX5LA&ab_channel=Traderstewie
 
+
+![image](https://user-images.githubusercontent.com/10590095/110253494-4b28ac00-7f50-11eb-98e2-9a6744458328.png)
+
 No one indicator is going to be successful on its own, it needs to be used with conjunction with other tools such as volume, market sentiment, etc. MacD is a momentum indicator with convergeance divergence
 
 Personally when I use the MacD I am looking for divergences, there are two types of divergence, bullish and bearish. I love to track 15min, 30min, 1h to track it and find potential warning signs, either topping out or bottoming out. The reason I am saying small is because of the size of charts I am using 15/30/1h. Can create a short term trading opportunity, maybe a week or less using these time frames. 2, 3, 4 day trade would be the maximum I would recommend for the 15/30 min charts
