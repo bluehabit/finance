@@ -32,3 +32,5 @@ But just imagine if we dont bounce, we can drop down another leg because that wo
 ![image](https://user-images.githubusercontent.com/10590095/110249034-8c619180-7f39-11eb-92d6-9596ccdc65d1.png)
 In this hypothetical situation, probably big snap back rally. 
 
+Use RSI and MacD as momentum indicators
+
