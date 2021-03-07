@@ -22,3 +22,5 @@ Private members asked him during this time, he Stewie should we short here, my a
 ![image](https://user-images.githubusercontent.com/10590095/110248874-cf6f3500-7f38-11eb-8eaf-f28c51fd5890.png)
 
 ![image](https://user-images.githubusercontent.com/10590095/110248876-d8600680-7f38-11eb-9887-ed2a4720d86a.png)
+
+Telling us opportunity for a bounce here.
