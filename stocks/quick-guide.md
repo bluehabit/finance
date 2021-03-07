@@ -1,5 +1,7 @@
 ## Stages of Market Sentiment
 
+no one indicator is going to be successful on its own, it needs to be used with conjunction with other tools such as volume, market sentiment, etc.
+
 *  `bulls in control`
 * `bulls in control with warning signs`
 * `neutral`
