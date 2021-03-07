@@ -41,3 +41,6 @@ In this hypothetical situation, probably big snap back rally.
 
 Use RSI and MacD as momentum indicators, tell me wether momentum on downside is slowing down, or momentum on upside is slowing down. When momentum is slowing down on the upside looking at a pull back or topping out situation and vise versa when you see momentum on the downside start to slow down tell you sellers getting less aggressive and pointing to short term bottom or potential bounce
 
+![image](https://user-images.githubusercontent.com/10590095/110252541-98eee580-7f4b-11eb-9323-4e1f8ef1b47b.png)
+
+![image](https://user-images.githubusercontent.com/10590095/110252547-9c826c80-7f4b-11eb-81ea-f76114b11132.png)
