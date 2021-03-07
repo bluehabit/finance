@@ -1,5 +1,20 @@
-![image](https://user-images.githubusercontent.com/10590095/110248451-d301bc80-7f36-11eb-93f2-78d0ccb99520.png)
+## Stages of Market Sentiment
 
+*  `bulls in control`
+* `bulls in control with warning signs`
+* `neutral`
+* `bears in control with warning signs`
+* `bears in control`
+
+example of this weeks 3/5 S&P500 chart
+
+![image](https://user-images.githubusercontent.com/10590095/110254329-5bdb2100-7f54-11eb-896d-d7ea0af0755b.png)
+
+So mixed signals this week after the dip, the `bullish channel did not break` so therefore bulls remain in control. But there are some warning signs, for example beginning of a death cross formation on the 7 day sma. Beginning of death cross on macd as well, these are some `warning signs` to pay attention to they are not confirmed yet.
+
+
+
+![image](https://user-images.githubusercontent.com/10590095/110248451-d301bc80-7f36-11eb-93f2-78d0ccb99520.png)
 
 ## Stock Options
 
