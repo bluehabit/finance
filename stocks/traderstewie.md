@@ -1,3 +1,9 @@
+## TraderStewie
+
+https://artoftrading.net/
+https://twitter.com/traderstewie
+https://www.youtube.com/channel/UCFa_kT-MvB-jwJJKvkU4yAw
+
 ## How to use macd / rsi to spot changes in momentum
 
 https://www.youtube.com/watch?v=adSGUkNX5LA&ab_channel=Traderstewie
