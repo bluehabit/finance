@@ -77,5 +77,5 @@ He is using log view thats why his chart looks like this
 
 ![image](https://user-images.githubusercontent.com/10590095/110289813-932aeb80-7faf-11eb-9c4d-e51d7ada5a97.png)
 
-
+![image](https://user-images.githubusercontent.com/10590095/110290296-3d0a7800-7fb0-11eb-990c-ca8dd4a786ba.png)
 
