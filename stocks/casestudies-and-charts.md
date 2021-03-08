@@ -1,3 +1,7 @@
+## Trendlines
+
+![trend-lines](https://user-images.githubusercontent.com/10590095/110268961-3c5deb80-7f88-11eb-84dc-5d17b25bd4c1.png)
+
 ## Casestudies and Charts
 
 ![2020 covid study](https://user-images.githubusercontent.com/10590095/110268118-c5742300-7f86-11eb-8af1-a1db5e46f335.png)
@@ -17,3 +21,11 @@
 ## Cryptos
 
 ![bullwick ethereum miss](https://user-images.githubusercontent.com/10590095/110268684-b5107800-7f87-11eb-9b0c-c694a585aa05.png)
+
+## Bull and Bear candles
+
+### Bull
+
+![bullwick](https://user-images.githubusercontent.com/10590095/110268873-0fa9d400-7f88-11eb-9f31-5f31d53dfa79.png)
+
+### Bear
