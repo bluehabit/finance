@@ -10,10 +10,15 @@
 
 `Negative Beta Value` - a beta of -1.0 indicates the stock is INVERSLEY correlated to the benchmark (w/e you choose as bench mark in calculation such as S&P500). 
 
-
+Here is GME, less than 1
 
 but for beta to be calculated in a meaningful way stock should be related to its index benchmark that is used in the calculation
 
+## Opex 
+
+Option experiation day
+
+![opex](https://user-images.githubusercontent.com/10590095/110268762-dcffdb80-7f87-11eb-8564-c3f8f094d55a.png)
 
 
 ## Stages of Market Sentiment
