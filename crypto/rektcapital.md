@@ -93,3 +93,6 @@ The way to think about money flow in general is first in terms of USD pairs. And
 * which in turn leads to further money flow into low / mid cap alt coins but this time in their `btc/alt coin` pairs!
 * therefore as of 3/8/21 we have only seen increase in alt coin in terms of $ value, we have not even seen the btc/alt coin launch yet. and given that we have seen the largest doge coin rally of all time take place gives me tremendous reason to believe this 2021 alt coin season, this early alt coin bull market we are seeing right now ... is going to be so much more explosive and impressive compared to 2017. 
 
+![image](https://user-images.githubusercontent.com/10590095/110343566-3bfa3a80-7ff2-11eb-8405-7c8bfbbd7c66.png)
+
+
