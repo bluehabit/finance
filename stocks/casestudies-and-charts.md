@@ -2,6 +2,10 @@
 
 ![2020 covid study](https://user-images.githubusercontent.com/10590095/110268118-c5742300-7f86-11eb-8af1-a1db5e46f335.png)
 
+## Head and Shoulders
+
+![dax head and shoulders](https://user-images.githubusercontent.com/10590095/110268824-f1dc6f00-7f87-11eb-9115-ac0ae31da7ac.png)
+
 ## Inverse Head and Shoulders
 
 ![inverse - head and shoulders](https://user-images.githubusercontent.com/10590095/110268466-4a5f3c80-7f87-11eb-8388-20688e6f1080.png)
