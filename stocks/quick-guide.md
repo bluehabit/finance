@@ -46,6 +46,13 @@ So mixed signals this week after the dip, the `bullish channel did not break` so
 A **put** is a bet that the **stock price will go down**, so you get the right to sell the security (stock) at a certain price and then 
 a **call** is the opposite, betting the **stock price will go up**, you get the option to buy the contract at a certain price
 
+for example `SPY 365P march 19th` is a `put` on `spy` for `march 19th`
+
+`SPY 385C march 20th` is a `call` on `SPY` for `march 20th`
+
+![put](https://user-images.githubusercontent.com/10590095/110269094-95c61a80-7f88-11eb-973e-d1be648ef92e.png)
+
+
 Name of tool that attempts to find bottoms on trading view
 
 ## Kraken
