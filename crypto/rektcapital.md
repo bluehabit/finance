@@ -14,7 +14,7 @@ People say doge coin is the entry alt coin. And that means many new investors ar
 
 ![image](https://user-images.githubusercontent.com/10590095/110287223-bd7aaa00-7fab-11eb-816f-6f2c5bdfd2cb.png)
 
-### Alt Coin Market Cap
+### Alt Coin Market Cap Follows Doge
 
 Can see doge coin sparks off an alt season. 
 
@@ -31,5 +31,36 @@ Reason I mention alt coin market cap, is doge coin cycles align perfectly with a
 HOW DO I DO THIS GRAPH IN TRADINGVIEW
 
 Depending how large magnitude of doge coin rally, corresponds to how big the alt coin rally is. And we just saw the larget dog rally cycle in crypto history - should see corresponding alt coin market cap move. 
+
+### Alt Coin market Cap Follows and Lags Ethereum on the USD pair
+
+![image](https://user-images.githubusercontent.com/10590095/110288194-3fb79e00-7fad-11eb-88ca-116c1e4ed3ab.png)
+
+Ethereum broke out a long time ago from this U-Shaped reversal. Break out being the rectangle, perhaps turning it into support?
+
+Lite coin is lagging behind on its reversal, so should be a great oppurtunity since its lagging behind ETH. Should see LTC hit ATH in the next few weeks or even months (again recorded feb 11th so this video is almost a month old now) 
+
+![image](https://user-images.githubusercontent.com/10590095/110288284-607ff380-7fad-11eb-9201-901977645e3a.png)
+
+### Crytpo Money Flow Cycle
+
+![image](https://user-images.githubusercontent.com/10590095/110288458-a6d55280-7fad-11eb-83f8-3a5397768df5.png)
+
+ETH is a very important component in this cycle. The `large caps` predominently `eth` but also `ltc`. It leads before the alt coins. But once eth rallies, you start to see some alt coins enjoy a rise as well. People start to profit circulate down into mid cap and low cap. So ETH is a market leader for alt coins because it precedes money flow into alt coins.
+
+Where does doge coin fit in? If ETH is so important to alt coins kickstarting a money flow cascade down into alts, how does doge fit in? 
+
+#1. Doge coin tends to precede, or confirm alt coin season
+#2. Doge confirms increases in alt coin market cap
+#3. ETH is so important to kickstart moneyflow into large cap alt coins - doge coin is also important in kickstarting this money flow into alt coins as well. 
+
+ETH carries market cap for alt coins.
+
+If we look at doge / btc and eth / btc, can see these cycles line up. Doge coins confirm trends in eth in the btc pair as well. 
+
+![image](https://user-images.githubusercontent.com/10590095/110288953-590d1a00-7fae-11eb-9b5d-211cf434e7cd.png)
+
+
+
 
 
