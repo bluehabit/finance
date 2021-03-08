@@ -83,5 +83,12 @@ He is using log view thats why his chart looks like this
 
 The way to think about money flow in general is first in terms of USD pairs. And then again in their BTC pairs. ETH being a key component in USD pair. And thats how we know lite coin is laggins so far behind right now, just in terms of dollars. `But the eth / btc pairing rally hasn't even started yet!` And thats a big factor in what kick starts the alt coin pump! Will see exponential upsdie from ETH / BTC and then cascade into alts.
 
+## Summary
 
+* Doge it precedes or confirms alt coin seasons, why because it kick starts alt coin money flow, being tightly correlated to...
+* increases in alt coin market cap in terms of `$` value
+* but alt coin market cap lags behind ....
+* ethereum 
+* but doge coin also confirms eth / btc pairing  bullish cycles all together
+* which in turn leads to further money flow into low / mid cap alt coins but this time in their `btc/alt coin` pairs!
 
