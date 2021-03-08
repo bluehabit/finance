@@ -50,9 +50,9 @@ ETH is a very important component in this cycle. The `large caps` predominently 
 
 Where does doge coin fit in? If ETH is so important to alt coins kickstarting a money flow cascade down into alts, how does doge fit in? 
 
-#1. Doge coin tends to precede, or confirm alt coin season
-#2. Doge confirms increases in alt coin market cap
-#3. ETH is so important to kickstart moneyflow into large cap alt coins - doge coin is also important in kickstarting this money flow into alt coins as well. 
+* #1. Doge coin tends to precede, or confirm alt coin season
+* #2. Doge confirms increases in alt coin market cap
+* #3. ETH is so important to kickstart moneyflow into large cap alt coins - doge coin is also important in kickstarting this money flow into alt coins as well. 
 
 ETH carries market cap for alt coins.
 
@@ -60,6 +60,13 @@ If we look at doge / btc and eth / btc, can see these cycles line up. Doge coins
 
 ![image](https://user-images.githubusercontent.com/10590095/110288953-590d1a00-7fae-11eb-9b5d-211cf434e7cd.png)
 
+But can see alt coins in their btc pairs, haven't yet triggered their rallies. And that is BECAUSE in the `ETH / BTC` pair has not yet fully confirmed its move to the upside. And the reason for that is it recently broke a key area of resistance 
+
+![image](https://user-images.githubusercontent.com/10590095/110289467-1566e000-7faf-11eb-95eb-41c61a8864b4.png)
+
+![image](https://user-images.githubusercontent.com/10590095/110289454-10a22c00-7faf-11eb-89f5-b9ceea751837.png)
+
+![image](https://user-images.githubusercontent.com/10590095/110289582-3fb89d80-7faf-11eb-95b7-5363686c2134.png)
 
 
 
