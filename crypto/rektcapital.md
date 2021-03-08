@@ -79,3 +79,9 @@ He is using log view thats why his chart looks like this
 
 ![image](https://user-images.githubusercontent.com/10590095/110290296-3d0a7800-7fb0-11eb-990c-ca8dd4a786ba.png)
 
+### ETH/BTC in this pairing is going to precede a cascading effect of investor money flow into smaller mid and small cap alt coins in their btc pairs as well.
+
+The way to think about money flow in general is first in terms of USD pairs. And then again in their BTC pairs. ETH being a key component in USD pair. And thats how we know lite coin is laggins so far behind right now, just in terms of dollars. `But the eth / btc pairing rally hasn't even started yet!` And thats a big factor in what kick starts the alt coin pump! Will see exponential upsdie from ETH / BTC and then cascade into alts.
+
+
+
