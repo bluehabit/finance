@@ -24,3 +24,12 @@ On his chart (recorded feb 11th) can see on the cusp of breaking 2018 highs (cei
 
 ![image](https://user-images.githubusercontent.com/10590095/110287517-44c81d80-7fac-11eb-9875-d58aa7ada8e5.png)
 
+Reason I mention alt coin market cap, is doge coin cycles align perfectly with altcoin market cap increases.
+
+![image](https://user-images.githubusercontent.com/10590095/110287809-b99b5780-7fac-11eb-8921-461022b05b7a.png)
+
+HOW DO I DO THIS GRAPH IN TRADINGVIEW
+
+Depending how large magnitude of doge coin rally, corresponds to how big the alt coin rally is. And we just saw the larget dog rally cycle in crypto history - should see corresponding alt coin market cap move. 
+
+
