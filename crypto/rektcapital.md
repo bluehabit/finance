@@ -28,6 +28,11 @@ Reason I mention alt coin market cap, is doge coin cycles align perfectly with a
 
 ![image](https://user-images.githubusercontent.com/10590095/110287809-b99b5780-7fac-11eb-8921-461022b05b7a.png)
 
+He is using `log` view thats why his chart looks like this
+
+![image](https://user-images.githubusercontent.com/10590095/110289773-827a7580-7faf-11eb-89ff-4ec0c84c8c1c.png)
+
+
 HOW DO I DO THIS GRAPH IN TRADINGVIEW
 
 Depending how large magnitude of doge coin rally, corresponds to how big the alt coin rally is. And we just saw the larget dog rally cycle in crypto history - should see corresponding alt coin market cap move. 
