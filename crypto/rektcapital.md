@@ -73,6 +73,9 @@ But can see alt coins in their btc pairs, haven't yet triggered their rallies. A
 
 ![image](https://user-images.githubusercontent.com/10590095/110289582-3fb89d80-7faf-11eb-95b7-5363686c2134.png)
 
+He is using log view thats why his chart looks like this
+
+![image](https://user-images.githubusercontent.com/10590095/110289813-932aeb80-7faf-11eb-9c4d-e51d7ada5a97.png)
 
 
 
