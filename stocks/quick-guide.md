@@ -1,3 +1,7 @@
+## Beta - measuring stock volatility
+
+![beta](https://user-images.githubusercontent.com/10590095/110266865-572e6100-7f84-11eb-9057-9a0894e0290e.png)
+
 ## Stages of Market Sentiment
 
 no one indicator is going to be successful on its own, it needs to be used with conjunction with other tools such as volume, market sentiment, etc.
