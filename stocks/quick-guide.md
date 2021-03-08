@@ -2,6 +2,20 @@
 
 ![beta](https://user-images.githubusercontent.com/10590095/110266865-572e6100-7f84-11eb-9057-9a0894e0290e.png)
 
+`beta value 1` in line with the market
+
+`less than 1` theoretically less volatile compared to the market/index
+
+`greater than 1` - more volatile compared to the market (can lose more but gain more). For example if a stocks beta is 1.2 it is assumed to be 20% more volatile than the market. Technology stocks and small cap stocks tend to have higher betas than the market benchmark. This indicates that adding the s tock to a portfolio will increase the portfolios risk but also increase the expected return
+
+`Negative Beta Value` - a beta of -1.0 indicates the stock is INVERSLEY correlated to the benchmark (w/e you choose as bench mark in calculation such as S&P500). 
+
+
+
+but for beta to be calculated in a meaningful way stock should be related to its index benchmark that is used in the calculation
+
+
+
 ## Stages of Market Sentiment
 
 no one indicator is going to be successful on its own, it needs to be used with conjunction with other tools such as volume, market sentiment, etc.
