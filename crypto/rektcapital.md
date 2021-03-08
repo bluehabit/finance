@@ -14,3 +14,13 @@ People say doge coin is the entry alt coin. And that means many new investors ar
 
 ![image](https://user-images.githubusercontent.com/10590095/110287223-bd7aaa00-7fab-11eb-816f-6f2c5bdfd2cb.png)
 
+### Alt Coin Market Cap
+
+Can see doge coin sparks off an alt season. 
+
+On his chart (recorded feb 11th) can see on the cusp of breaking 2018 highs (ceiling red bar). Can see in the current chart we have surpassed that.
+
+![image](https://user-images.githubusercontent.com/10590095/110287556-5ad5de00-7fac-11eb-8696-9faeed263ce0.png)
+
+![image](https://user-images.githubusercontent.com/10590095/110287517-44c81d80-7fac-11eb-9875-d58aa7ada8e5.png)
+
