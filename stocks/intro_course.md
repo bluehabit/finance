@@ -1,5 +1,7 @@
 in `volatile markets` probably best to `$ cost average` when its choppy, vs going `all in`. 
 
+If you can say no to a trade, probably should - justin.
+
 ## SMA as support / resistance
 
 its back over the `50` sma
