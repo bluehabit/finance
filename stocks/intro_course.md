@@ -1,3 +1,8 @@
+## SMA as support / resistance
+
+its back over the `50` sma
+look t osee if it will bounce off the `30` sma etc.
+
 earnings week coming out BE CAREFUL with your stock how do you even check this. Would be cautious
 with earnings
 
