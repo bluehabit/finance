@@ -10,6 +10,9 @@ with earnings
 Don't want to try and chase pumps, wait for
 backtest and confirmation, confirmation bounce on a STRONG resistance / support line vs a weak one
 'im not going to buy a breakout'
+PROBABLY DONT WANT TO TRADE THROUGH EARNINGS
+PROBABLY DONT WANT TO TRADE THROUGH EARNINGS
+PROBABLY DONT WANT TO TRADE THROUGH EARNINGS
 - mat
 
 penny stocks are volatile 
