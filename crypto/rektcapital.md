@@ -107,3 +107,14 @@ Psychology of the graph is greed on the upside, capital preservation on the down
 
 ![image](https://user-images.githubusercontent.com/10590095/110577641-aca37300-8128-11eb-9c10-47fc9a35355f.png)
 
+See strong fomo coming in, drives up the price.
+
+## CoinMarketCal
+
+Good way to find hype on alt coins https://coinmarketcal.com/en/
+Complimenting **technical analysis** (TA/charts) with **fundamental analysis (FA)**
+
+Chart shows ('falling wedge')
+
+![image](https://user-images.githubusercontent.com/10590095/110578183-d610ce80-8129-11eb-93b5-0e7a2a765531.png)
+
