@@ -1,3 +1,39 @@
+earnings week coming out BE CAREFUL with your stock how do you even check this. Would be cautious
+with earnings
+
+'stock is gaping up, too exciting for me' 
+Don't want to try and chase pumps, wait for
+backtest and confirmation, confirmation bounce on a STRONG resistance / support line vs a weak one
+'im not going to buy a breakout'
+- mat
+
+penny stocks are volatile 
+may want to add some to your list
+
+
+​Mat, how long after open does the market / volume tend to cool down?
+-Usually 30 minutes or so after open so around 9am your time
+-see pin update at 10am generally
+
+
+When you trade the open, do you try and wait for the market to cool off a bit at the 30 min mark. Or do you generally prefer to trade earlier when its more volatile?
+-just wait for trade setups was his answer
+-cant over analyze and rely on one strategy
+-which is why have to be prepared for unexpected, use stop losses, profit targets all that stuff
+pick a $ value for stop loss or a percent amount
+
+'Rednesday'
+usually red on weds? for SPY ? QQQ ?
+
+hard to trade options when vix is moving 10-20% daily. vix directly affects option value, 
+spy, apple, tesla liquid stocks easy to get a good fill even in the first 5 min of open, vs other stocks where might get a hard time getting fill
+
+
+![image](https://user-images.githubusercontent.com/10590095/110650243-fd928600-817f-11eb-8c64-01a0c5eab56b.png)
+
+
+
+
 Being able to adapt, an investing environment (easy to go long) vs a traders environment 
 where botoms are not in, and its choppy, hard to go long and make money, need to be flexible and adapt
 strategies
