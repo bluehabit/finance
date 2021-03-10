@@ -120,3 +120,10 @@ Chart shows ('falling wedge')
 
 I dont usually hold alt coins, I swing trade, or buy the rumors sell the news.
 
+## Crypto Stocks related to BTC
+
+Having some exposure to BTC in port through stocks
+
+![image](https://user-images.githubusercontent.com/10590095/110579307-26892b80-812c-11eb-9e42-e0c1addc9fe8.png)
+
+
