@@ -1,3 +1,8 @@
+## Channels
+
+![image](https://user-images.githubusercontent.com/10590095/110654375-b27a7200-8183-11eb-9de0-b6c3ed18c22d.png)
+
+
 ## Trendlines
 
 ![trend-lines](https://user-images.githubusercontent.com/10590095/110268961-3c5deb80-7f88-11eb-84dc-5d17b25bd4c1.png)
