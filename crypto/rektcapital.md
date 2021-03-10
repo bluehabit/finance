@@ -95,4 +95,6 @@ The way to think about money flow in general is first in terms of USD pairs. And
 
 ![image](https://user-images.githubusercontent.com/10590095/110343566-3bfa3a80-7ff2-11eb-8405-7c8bfbbd7c66.png)
 
+![image](https://user-images.githubusercontent.com/10590095/110577361-1b340100-8128-11eb-8f10-0ee960505e82.png)
+
 
