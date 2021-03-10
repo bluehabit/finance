@@ -1,3 +1,5 @@
+`smas` can serve as support / resistance
+
 ## Beta - measuring stock volatility
 
 ![beta](https://user-images.githubusercontent.com/10590095/110266865-572e6100-7f84-11eb-9057-9a0894e0290e.png)
