@@ -118,3 +118,5 @@ Chart shows ('falling wedge')
 
 ![image](https://user-images.githubusercontent.com/10590095/110578183-d610ce80-8129-11eb-93b5-0e7a2a765531.png)
 
+I dont usually hold alt coins, I swing trade, or buy the rumors sell the news.
+
