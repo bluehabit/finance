@@ -251,6 +251,9 @@ Waiting for backtest to confirm, doesn't like chasing pumps / FOMOing in.
 
 ![gao sekk iff](https://user-images.githubusercontent.com/10590095/110580094-8d5b1480-812d-11eb-8111-30ba1bda9268.png)
 
+![2021_03_08_00_53_57_NVDA_498 46_0 74_Unnamed](https://user-images.githubusercontent.com/10590095/110580249-dd39db80-812d-11eb-9c0e-aafd2330f689.png)
+
+![case23](https://user-images.githubusercontent.com/10590095/110580261-e2972600-812d-11eb-8c01-61b9e0a4846e.png)
 
 
 
