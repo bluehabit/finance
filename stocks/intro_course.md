@@ -211,6 +211,19 @@ Want to know
 
 Here is one on SPY, clear bull chart but getting a bit over extended.
 
+## Misc.
+
+Waiting for backtest to confirm, doesn't like chasing pumps / FOMOing in.
+
+![backtest](https://user-images.githubusercontent.com/10590095/110579521-a0211980-812c-11eb-8d04-57802098ba19.png)
+
+![fib extension tool](https://user-images.githubusercontent.com/10590095/110579561-ae6f3580-812c-11eb-87cb-4df0c9f073b9.png)
+
+![ratcheting](https://user-images.githubusercontent.com/10590095/110579570-b202bc80-812c-11eb-8506-5807382a5c41.png)
+
+![image](https://user-images.githubusercontent.com/10590095/110579649-da8ab680-812c-11eb-93bc-e6eaa22ac699.png)
+
+
 
 
 
