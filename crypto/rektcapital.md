@@ -101,3 +101,9 @@ The way to think about money flow in general is first in terms of USD pairs. And
 
 ![image](https://user-images.githubusercontent.com/10590095/110577539-736b0300-8128-11eb-9176-de5b5dc18184.png)
 
+At the end of every quarter is when we tend to see the most amount of hype for a given altcoin, and tend to see the most appreciation. That would be April, July, October, and into the end of the year December. Looking at the chart around may is when we tend to see the lowest hype for Q2. People lose interest in alt coins, alt coin dominance down. These dips in altcoins tends to cooincide with bitcoin starting to rally. Bitcoin rallies, alt coin interest goes down so does price. But then as bitcoin starts to converge and cool off alt coins start to fire up again. 
+
+Psychology of the graph is greed on the upside, capital preservation on the downside. 
+
+![image](https://user-images.githubusercontent.com/10590095/110577641-aca37300-8128-11eb-9c10-47fc9a35355f.png)
+
