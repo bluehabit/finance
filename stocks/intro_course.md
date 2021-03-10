@@ -1,3 +1,5 @@
+in `volatile markets` probably best to `$ cost average` when its choppy, vs going `all in`. 
+
 ## SMA as support / resistance
 
 its back over the `50` sma
