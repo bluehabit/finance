@@ -14,6 +14,7 @@ may want to add some to your list
 ​Mat, how long after open does the market / volume tend to cool down?
 -Usually 30 minutes or so after open so around 9am your time
 -see pin update at 10am generally
+- on 3/10 its volatile, its wedsnesy (rednesday), option expirey today i think best trade today is to not make a trade today
 
 
 When you trade the open, do you try and wait for the market to cool off a bit at the 30 min mark. Or do you generally prefer to trade earlier when its more volatile?
