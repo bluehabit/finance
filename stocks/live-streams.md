@@ -291,14 +291,41 @@ Viewer asked, should I get out on this chart ... trending down .. yah
 
 
 
+Tech Stocks Rally! Cathie Wood STRIKES BACK! ARKK, TSLA, AAPL | Stock Market Today
+3/9/2021
+
+https://www.youtube.com/watch?v=7B0BOBey0HE&ab_channel=BlazeCapital
 
 
+could move higher tomorrow (weds)
+let people buy temp short term highs into thurs
+and down into friday
+
+algo alerting on
+s and p 500 20% of all stocks
+nasdaq 25% of all stocks
+
+alot of alerts on the algo however, lots of 
+bearish on the options chain, not seeing bullish CONFIRMATION on the options flow, lots of bear best on SPY, lots of bear bets for 3/9/2021. And these are pretty big bets. So story is maybe tech ready to rally, but why not let people buy the short term top and short it down into friday. For them to get to get paid friday it needs to drop quite a bit, by 3 points or so it looks like, on this option chain for SPY see several 2.5-3 million put options, thats alot.
+Looking at QQQ see similar bearish sentiment on option chain - see a $4 million put option here thats a big bet. Also note how much they paid in premium, they paid about $2, thats alot in premium. 
+
+people want to buy apple want to buy tesla? let them buy the short term top on thurs
+
+my safest play recommendation wait for friday,
+if we get dip on friday do overnight weekend hold
+if bill passes likely to  be a buy the news on monday
+
+What I think is happening with tech stocks right now (Tesla, Apple) is after this big push today (tuesday 3/9) is letting people chase it tomorrow 3/10 weds. OMG gap up i def got to buy that gap up
+, so then they gap it up and dump it. Could be wrong. Friday good oppurtunity to get in, if they dump it down between 3 and 3:15 is when we want to get really bullish for following week here.
+
+The S&P needs QQQ or XLP (consumer staples like coke) to rally here to push the S&P overall. QQQ is the tech stochs like (apple, Microsoft, Amazon, Tesla, nvidia)
+
+overall think we are going to go up tomorrow, but probably decline into friday, with eod rally possible which would be bullish to buy and hold over weekend.
 
 
-
-
-
-
+![1](https://user-images.githubusercontent.com/10590095/110568081-18311480-8118-11eb-9e08-e818e5124296.png)
+![2](https://user-images.githubusercontent.com/10590095/110568082-18c9ab00-8118-11eb-8c90-e00ba090eb10.png)
+![3](https://user-images.githubusercontent.com/10590095/110568085-18c9ab00-8118-11eb-8dbb-5a9d89d4ad18.png)
 
 
 
