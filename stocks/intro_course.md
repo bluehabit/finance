@@ -223,7 +223,33 @@ Waiting for backtest to confirm, doesn't like chasing pumps / FOMOing in.
 
 ![image](https://user-images.githubusercontent.com/10590095/110579649-da8ab680-812c-11eb-93bc-e6eaa22ac699.png)
 
+![try to reset](https://user-images.githubusercontent.com/10590095/110579694-ebd3c300-812c-11eb-929e-c64e235b1664.png)
 
+![tesla](https://user-images.githubusercontent.com/10590095/110579769-0b6aeb80-812d-11eb-8adf-ea61a98936f3.png)
+
+![amazon alltime frames](https://user-images.githubusercontent.com/10590095/110579780-0efe7280-812d-11eb-9e0e-2dfba90dd80a.png)
+
+![sniper icon](https://user-images.githubusercontent.com/10590095/110579736-00b05680-812d-11eb-8595-08fc26a5dcdf.png)
+
+![gme tilray casestudy](https://user-images.githubusercontent.com/10590095/110579727-fb530c00-812c-11eb-9a44-e9ed0e5ce685.png)
+
+![2021_03_09_19_25_35_](https://user-images.githubusercontent.com/10590095/110579792-145bbd00-812d-11eb-9f26-d5ff1d4fd8a1.png)
+
+![spx2](https://user-images.githubusercontent.com/10590095/110579804-1887da80-812d-11eb-99a3-6d59d6e622b4.png)
+
+![image](https://user-images.githubusercontent.com/10590095/110579983-643a8400-812d-11eb-98eb-a5d5cb1e5958.png)
+
+![mat advise](https://user-images.githubusercontent.com/10590095/110579994-6866a180-812d-11eb-8fa6-51cb15b63bbb.png)
+
+![parabolics](https://user-images.githubusercontent.com/10590095/110580012-70264600-812d-11eb-9b57-77108b7f801e.png)
+
+![stay in](https://user-images.githubusercontent.com/10590095/110580070-846a4300-812d-11eb-9bdd-05c40df0dca5.png)
+
+![gap](https://user-images.githubusercontent.com/10590095/110580055-80d6bc00-812d-11eb-971c-59a06ac9f090.png)
+
+![additional research](https://user-images.githubusercontent.com/10590095/110580081-88966080-812d-11eb-8daa-557e24ddafa0.png)
+
+![gao sekk iff](https://user-images.githubusercontent.com/10590095/110580094-8d5b1480-812d-11eb-8111-30ba1bda9268.png)
 
 
 
