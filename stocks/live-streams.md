@@ -382,6 +382,14 @@ Gaps:
 
 `cut, early signs of reversal (flat) then curl up`
 
+![5 legs down](https://user-images.githubusercontent.com/10590095/110728893-63642980-81e3-11eb-802b-acf4f38bf05f.jpg)
+![inverse head and shoulders pattern](https://user-images.githubusercontent.com/10590095/110728898-65c68380-81e3-11eb-9c76-0f9780c1a71a.jpg)
+![investor psychology chart](https://user-images.githubusercontent.com/10590095/110728899-65c68380-81e3-11eb-915a-aadd940342a7.jpg)
+![roblox](https://user-images.githubusercontent.com/10590095/110728900-665f1a00-81e3-11eb-8296-fdbf6a6b38ac.jpg)
+![think less](https://user-images.githubusercontent.com/10590095/110728901-665f1a00-81e3-11eb-927a-7f942425d478.jpg)
+![trading styles](https://user-images.githubusercontent.com/10590095/110728904-665f1a00-81e3-11eb-80bb-c187f4961b8b.jpg)
+![bumble inc](https://user-images.githubusercontent.com/10590095/110728907-66f7b080-81e3-11eb-810f-147b3b6a9619.jpg)
+
 
 
 
