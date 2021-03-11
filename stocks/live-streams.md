@@ -1,3 +1,9 @@
+## Wicking Resistance and Candle Body Resistance
+
+`wicking resistance`
+`candle body resistance`
+`claiming candle top as new support`
+
 ## Live Streams and Recorded Vidoes
 
 Stock MARKET CRASH 2021? - Bonds Rise | SP500 Technical Analysis 2/27/2021
@@ -400,6 +406,7 @@ Reverse head and shoulders on the bottom that sets up a nice `neckline` for a st
 
 ![image](https://user-images.githubusercontent.com/10590095/110729762-e0dc6980-81e4-11eb-8afa-334827b03a51.png)
 
+![slide](https://user-images.githubusercontent.com/10590095/110729903-1da86080-81e5-11eb-8bb3-2d523d633f20.png)
 
 
 
