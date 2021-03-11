@@ -398,6 +398,7 @@ Gaps:
 If the algo sets up here for `fiore`, the next near term resistance level is thats a 4:1 risk reward, thats just going to this recent top.
 Reverse head and shoulders on the bottom that sets up a nice `neckline` for a stop loss. Not only that using your script can also see your major support area which is basically the neckline. Set stop loss somewhere on there , or slightly below it.
 
+![image](https://user-images.githubusercontent.com/10590095/110729762-e0dc6980-81e4-11eb-8afa-334827b03a51.png)
 
 
 
