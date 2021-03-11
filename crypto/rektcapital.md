@@ -125,5 +125,5 @@ I dont usually hold alt coins, I swing trade, or buy the rumors sell the news.
 Having some exposure to BTC in port through stocks
 
 ![image](https://user-images.githubusercontent.com/10590095/110579307-26892b80-812c-11eb-9e42-e0c1addc9fe8.png)
-
-
+![wedge](https://user-images.githubusercontent.com/10590095/110730038-606a3880-81e5-11eb-8985-f45858d60b2c.png)
+![u shaped reversal](https://user-images.githubusercontent.com/10590095/110730028-5ba58480-81e5-11eb-954f-f210bfcb5fb4.png)
