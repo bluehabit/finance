@@ -390,8 +390,13 @@ Gaps:
 ![trading styles](https://user-images.githubusercontent.com/10590095/110728904-665f1a00-81e3-11eb-80bb-c187f4961b8b.jpg)
 ![bumble inc](https://user-images.githubusercontent.com/10590095/110728907-66f7b080-81e3-11eb-810f-147b3b6a9619.jpg)
 
+`fiore cannabis` 
 
+![fiore2](https://user-images.githubusercontent.com/10590095/110729067-ad4d0f80-81e3-11eb-8c0f-cb43065764c6.png)
+![fiore](https://user-images.githubusercontent.com/10590095/110729068-ade5a600-81e3-11eb-9ed8-1023b337777a.png)
 
+If the algo sets up here for `fiore`, the next near term resistance level is thats a 4:1 risk reward, thats just going to this recent top.
+Reverse head and shoulders on the bottom that sets up a nice `neckline` for a stop loss. Not only that using your script can also see your major support area which is basically the neckline. Set stop loss somewhere on there , or slightly below it.
 
 
 
