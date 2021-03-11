@@ -336,6 +336,7 @@ https://www.youtube.com/watch?v=qDZqMnT1tFw&ab_channel=BlazeCapital
 Whats the joke for IPO? `Its probably overpriced`
 
 The people in chat were there live for the first day of the Roblox IPO, lots of people saying to the moon, to $1,000 etc.. Looking at other IPO stocks like Bumble inc, wait for `1d` alert. You guys are not going to like hearing this but always pull up the `investor psychology chart` its a constant cycle of feareful and greed over and over and over and over AND OVER AND OVER. People in chat were like I NEED TO BUY MORE, I need to tell my friends! We are all going to be rich. You guys are soundign euphoric. 
+I was there when it was live, when it was pumping to 75 chat was euphoric when it started stalling chat wasn't sounding so high and mighty
 Thats why people like me `WAIT`. We `WAIT` for a `catalyst`, the `catalyst` is the algo. `Waiting and Waiting, wait on idea, validate idea, execute.` Choppy day Justin waid waiting and waiting today, wait on the idea, validate, execute, dont force it. Wait. 
 
 In general IPO's on day 1 do not hold gains. If it RIPS upward on IPO day probably going to dip hard the following next several days. If it DIPS on the initial IPO offering it tends to RIP at a later date (days, weeks, months later). Thats the template all IPOs that have done good usually
@@ -361,6 +362,24 @@ he ran FA (fundamental analysis) prior to 3/11 when earnings are reporting and k
 ![image](https://user-images.githubusercontent.com/10590095/110726834-bcca5980-81df-11eb-96a6-ab137afde08b.png)
 
 `check RESTRICTIONS` from your brokerage before day trading, you could get stuck in a trade if they have certain limits. 
+
+The `investory psychology` chart works on ALL TIMELINES by the way.
+
+As price drops, and volume dwindles, people that buy at that low level near capitulation / anger / depression, the people that buy at this level are not panicking. As share price continues dropping less people want to sell. 
+
+Falling back below `x` price we are back in the funnel.
+
+![image](https://user-images.githubusercontent.com/10590095/110727650-4890b580-81e1-11eb-8804-2fb7f6b95464.png)
+
+`Algo alerts are BUY ONLY`
+
+an `invest` alert is good for the next few weeks to months
+
+Gaps:
+`If gap down want to buy it generally, gap up sell it.`
+
+`VWAP` another reason its useful. Reemmber it only works for intra-day trading (volumes less than 1d), so people that bought `TODAY`. When the average person buys TODAY logs into their account and refreshes for the 80th time and sees red numbers its from a death cross on the VWAP. The `vwap` indicates if the average person that bought today made or lost money which influences market sentimenet. A golden cross on `vwap` indicates average person that bought TODAY made money.
+
 
 
 
