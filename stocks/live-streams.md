@@ -380,6 +380,8 @@ Gaps:
 
 `VWAP` another reason its useful. Reemmber it only works for intra-day trading (volumes less than 1d), so people that bought `TODAY`. When the average person buys TODAY logs into their account and refreshes for the 80th time and sees red numbers its from a death cross on the VWAP. The `vwap` indicates if the average person that bought today made or lost money which influences market sentimenet. A golden cross on `vwap` indicates average person that bought TODAY made money.
 
+`cut, early signs of reversal (flat) then curl up`
+
 
 
 
