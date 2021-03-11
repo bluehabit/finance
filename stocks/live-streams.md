@@ -328,6 +328,43 @@ overall think we are going to go up tomorrow, but probably decline into friday, 
 ![3](https://user-images.githubusercontent.com/10590095/110568085-18c9ab00-8118-11eb-8dbb-5a9d89d4ad18.png)
 
 
+## RBLX Stock, ROBLOX - LIVE ANALYSIS 📈🔥 [GME, TSLA, TECH STOCKS]
+3/10/2021
+
+https://www.youtube.com/watch?v=qDZqMnT1tFw&ab_channel=BlazeCapital
+
+Whats the joke for IPO? `Its probably overpriced`
+
+The people in chat were there live for the first day of the Roblox IPO, lots of people saying to the moon, to $1,000 etc.. Looking at other IPO stocks like Bumble inc, wait for `1d` alert. You guys are not going to like hearing this but always pull up the `investor psychology chart` its a constant cycle of feareful and greed over and over and over and over AND OVER AND OVER. People in chat were like I NEED TO BUY MORE, I need to tell my friends! We are all going to be rich. You guys are soundign euphoric. 
+Thats why people like me `WAIT`. We `WAIT` for a `catalyst`, the `catalyst` is the algo. `Waiting and Waiting, wait on idea, validate idea, execute.` Choppy day Justin waid waiting and waiting today, wait on the idea, validate, execute, dont force it. Wait. 
+
+In general IPO's on day 1 do not hold gains. If it RIPS upward on IPO day probably going to dip hard the following next several days. If it DIPS on the initial IPO offering it tends to RIP at a later date (days, weeks, months later). Thats the template all IPOs that have done good usually
+
+While he was live on `Roblox` volume started to stall and the stock started trading sideways.
+
+5 Big lows is a pattern that can sometimes lead to big reversals. Because by that time you are at the `bottom` of the `psychology chart` where `depression and anger` set in.
+
+Have a plan sell as you approach profit targets and or major resistance areas. If you still like it, can buy it back after it backtests over and confirms on resistance. 
+
+The FA (fundamental analysis) on Roblox put the IPO estimate worth about 30 billion which is equivalent to about $45 a share. On the IPO it rode $75 which would make it worth 40 billion. It added 2.5 `amc`'s worth of market cap, thats insane, no way its worth that much. Even if a stock continues pumping hard, the longer it pumps without retesting the more exhausted its going to be. Its healthy to drop, correct, back test and then continue working upward. The more the uptrend without backtest, the riskier it becomes.
+
+Instead on IPOs wait for a 20%, 40% drop w/e on price, wait for it to start to curl back up with bullwicks with your alert / algo confirmation and then go in and buy. 
+
+Roblox paying devs more than they earn. For every $1 they earn pay out almost 2.5x to devs that SUCKS could be okf if they are a `growth` company but they are not. How are they going to make `$`? If management cashing out why are you buying right now? you are making management money not yourself most likely. Need to separate yourself from company compared to its chart. Check yourself i you are saying things like 'this is a great company, it will rebound, shares on discount!, didn't you hear its a great company it will come back. Why does management team IPO and choose to go public? Because they need the money, management team wants to cash out and get paid, they are selling to retail like you. Justin does not like investing in companies that sell to kids like roblox.
+
+Somone in chat from a different stock bought in at `$40` and the stock had risen sharply to `$60`, but she didn't sell there and it dropped ot `$45` chart was starting to look fugly but she did not want to sell for a small profit. There was not much support below the $40 area and the backtest failed. Instead she let a green trade turn red. Justin some of my worst trades ever were initially green, but didn't take profit and let them run red. I SUCKED for 5 years buying the tops and selling the bottoms, over and over and over. I dont want you to suck or make the same mistakes that I did. Justin has made eveyr mistake at least twice.
+
+`dark pool prints what dis`
+
+he ran FA (fundamental analysis) prior to 3/11 when earnings are reporting and knows from his homework earnings will SUCK. The stock might be worth -$4 at this point. Might tank hard tomorrow. 
+
+![image](https://user-images.githubusercontent.com/10590095/110726834-bcca5980-81df-11eb-96a6-ab137afde08b.png)
+
+`check RESTRICTIONS` from your brokerage before day trading, you could get stuck in a trade if they have certain limits. 
+
+
+
+
 
 
 
