@@ -23,10 +23,6 @@
 
 ![hammer](https://user-images.githubusercontent.com/10590095/110268658-a88c1f80-7f87-11eb-8036-5f6b3f907678.png)
 
-## Cryptos
-
-![bullwick ethereum miss](https://user-images.githubusercontent.com/10590095/110268684-b5107800-7f87-11eb-9b0c-c694a585aa05.png)
-
 ## Bull and Bear candles
 
 ### Bull
@@ -34,3 +30,12 @@
 ![bullwick](https://user-images.githubusercontent.com/10590095/110268873-0fa9d400-7f88-11eb-9f31-5f31d53dfa79.png)
 
 ### Bear
+
+
+## Cryptos
+
+![bullwick ethereum miss](https://user-images.githubusercontent.com/10590095/110268684-b5107800-7f87-11eb-9b0c-c694a585aa05.png)
+
+
+![image](https://user-images.githubusercontent.com/10590095/110730924-fa7eb080-81e6-11eb-98c2-42083b62f48f.png)
+
