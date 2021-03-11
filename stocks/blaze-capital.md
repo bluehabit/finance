@@ -1,3 +1,7 @@
+## Earnings day
+
+Earnings day are hard to trade, can be a gamble. 
+
 ## Curling
 
 ![curl down](https://user-images.githubusercontent.com/10590095/110730227-b5a64a00-81e5-11eb-95d6-89dcf42cbdc8.png)
