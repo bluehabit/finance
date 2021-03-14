@@ -1,5 +1,6 @@
 `we do not blieve goldman listen to what they say but watch for what they do` -justin
 
+normally when dxy go up spy go down
 
 how much is a 1% daily gain 
 everday annualized over a year
