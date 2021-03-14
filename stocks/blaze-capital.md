@@ -1,3 +1,12 @@
+
+how much is a 1% daily gain 
+everday annualized over a year
+is that 30%?
+
+is .5% daily gain everyday annualized
+over a year, is that .5%?
+
+
 `SMAs can serve as support/resistance lines as well. `
 
 `capitulation volume candle' as shown by the tweet on your dekstop from pumpcats?`
