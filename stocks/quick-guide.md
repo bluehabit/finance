@@ -1,3 +1,13 @@
+## ETF Guide
+
+ETF examples
+xlv - healthcare
+xle - energy
+qqq - tech
+psq - short tech
+dust - short gold
+
+
 `smas` can serve as support / resistance
 
 ## Beta - measuring stock volatility
