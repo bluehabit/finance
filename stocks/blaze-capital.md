@@ -1,5 +1,7 @@
 `SMAs can serve as support/resistance lines as well. `
 
+`capitulation volume candle' as shown by the tweet on your dekstop from pumpcats?`
+
 ## Earnings day
 
 Earnings day are hard to trade, can be a gamble. 
