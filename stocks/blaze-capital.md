@@ -1,3 +1,7 @@
+40 year cycle, s & p 500 less than 1,000 maybe 600-800
+if we head towrad the 3230 (highlighted in red) probably confirming a massive correction
+that will mark end of a 40 year cycle since about the 1980s in stock market matches bond cycle, interest rate cycle, all kind of line of nicely. **Did justin say this?** I KNOW justin said at some point in a older video one day when the fed stops printing money he could see the s&p dropping 50%
+
 `historically weds bad day for the market, called 'red weds'`
 
 `we do not blieve goldman listen to what they say but watch for what they do` -justin
