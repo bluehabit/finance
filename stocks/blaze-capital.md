@@ -2,6 +2,8 @@
 
 `capitulation volume candle' as shown by the tweet on your dekstop from pumpcats?`
 
+`nasdaq since its not top 500 companies seems to have a lot more companies that can go parabolic`
+
 ## Earnings day
 
 Earnings day are hard to trade, can be a gamble. 
