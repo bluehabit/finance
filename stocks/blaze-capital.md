@@ -1,3 +1,5 @@
+`we do not blieve goldman listen to what they say but watch for what they do` -justin
+
 
 how much is a 1% daily gain 
 everday annualized over a year
