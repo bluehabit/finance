@@ -5,6 +5,12 @@ SPX - S&P500
 DJI - Dow Jones Industrial Average
 NASDAQ 
 
+if in a bad trade can sell it,
+wait for it to bounce to confirm
+then buy back in
+
+
+
 day trades very tight, stop out fast
 swing trades ill give them a few more percent
 i usually use dollar values
