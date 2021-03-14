@@ -1,3 +1,5 @@
+`SMAs can serve as support/resistance lines as well. `
+
 ## Earnings day
 
 Earnings day are hard to trade, can be a gamble. 
