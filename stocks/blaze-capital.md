@@ -1,6 +1,33 @@
+SPDR seems to be to manage/a trust for various ETFs like the SPY, gold etc.
+SPDR - Gold Trust
+SPDR - SPX
+SPX - S&P500
+DJI - Dow Jones Industrial Average
+NASDAQ 
+
+day trades very tight, stop out fast
+swing trades ill give them a few more percent
+i usually use dollar values
+if im using options I do %ages like 30,50 and 100% for managing positions
+
+previous resistance should become suppport
+
+
+once a stock loses a moving average like the 50 need to be cautious
+
+
 40 year cycle, s & p 500 less than 1,000 maybe 600-800
 if we head towrad the 3230 (highlighted in red) probably confirming a massive correction
 that will mark end of a 40 year cycle since about the 1980s in stock market matches bond cycle, interest rate cycle, all kind of line of nicely. **Did justin say this?** I KNOW justin said at some point in a older video one day when the fed stops printing money he could see the s&p dropping 50%
+
+always have to keep spy in mind spy is niagra falls, the btc, the river that pushes or pulls all others in the bucket with it, so when look at individual stocks need to look at big daddy stock
+
+managing risk 2:1 margin is what
+your trying to get, more than 1.7:1 etc
+
+if you find yourself bag holding alot, this is what the algo was created for`
+
+stocks normally test 3 times, forming a w kind of shape, or m shape (double top / botom)
 
 `historically weds bad day for the market, called 'red weds'`
 
